@@ -1,0 +1,5943 @@
+[
+  {
+    "id": "1",
+    "name": "アクアスケープ セブ",
+    "nameEn": "Aquascape Cebu",
+    "country": "フィリピン",
+    "region": "セブ島",
+    "city": "ラプラプシティ（マクタン島）",
+    "address": "Punta Engaño, Lapu-lapu City, Cebu, Philippines 6015",
+    "phone": "+63-929-405-0777",
+    "email": null,
+    "website": "https://aquascape-cebu.com/",
+    "languages": [
+      "日本語",
+      "英語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "オープンウォーター",
+      "アドバンス",
+      "ジンベイザメツアー",
+      "アイランドホッピング",
+      "シュノーケリング"
+    ],
+    "description": "日本人経営・日本人スタッフ在籍。少人数制バンカーボートで安心のダイビング。マクタンリゾートエリア内送迎無料。",
+    "lat": 10.3154,
+    "lng": 124.0288,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "ブルーコーラル セブ",
+    "nameEn": "Blue Coral Cebu",
+    "country": "フィリピン",
+    "region": "セブ島",
+    "city": "ラプラプシティ（マクタン島）",
+    "address": "c/o White Sands Resort, Maribago, Lapu-Lapu City, Mactan, Cebu 6015, Philippines",
+    "phone": "+63-32-263-2294",
+    "email": null,
+    "website": "https://www.bluecoral.jp/",
+    "languages": [
+      "日本語",
+      "英語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "インストラクターコース",
+      "ナイトロックス"
+    ],
+    "description": "PADI GOLD PALM 5スターIDCセンター認定の日本人経営ショップ。創業20年以上。セブ本店・ボホール店・南セブ支店の3店舗展開。",
+    "lat": 10.3286,
+    "lng": 123.9009,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "マリンハウスシーサー セブ店",
+    "nameEn": "Marine House Sea Sir Cebu",
+    "country": "フィリピン",
+    "region": "セブ島",
+    "city": "ラプラプシティ（マクタン島）",
+    "address": "Mactan Island, Lapu-Lapu City, Cebu, Philippines",
+    "phone": null,
+    "email": null,
+    "website": "https://seasir.co.jp/k/cebu/",
+    "languages": [
+      "日本語",
+      "英語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "オープンウォーター",
+      "アドバンス"
+    ],
+    "description": "沖縄発・40年超の実績を持つシーサーグループの海外支店。日本人常駐スタッフによる日本品質のダイビングサービスを提供。",
+    "lat": 10.47,
+    "lng": 123.83,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "name": "GOODダイブショップ ボホール",
+    "nameEn": "GOOD Diveshop Corp. Bohol",
+    "country": "フィリピン",
+    "region": "ボホール島",
+    "city": "タグビラランシティ",
+    "address": "GOOD Diveshop Corp. c/o Bohol Tropics Resort Club, Graham Av., Tagbilaran city, Bohol, Philippines 6300",
+    "phone": "050-5530-6743",
+    "email": "dive@stworld.co.jp",
+    "website": "https://www.boholgood.com/",
+    "languages": [
+      "日本語",
+      "英語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "オープンウォーター",
+      "アドバンス",
+      "EFR",
+      "レスキュー",
+      "ダイブマスター"
+    ],
+    "description": "2004年創業の日本人向けボホール専門ダイビングショップ。パングラオ島・バリカサグ島・カビラオ島でのんびりダイビング。空港から空港まで日本人スタッフが対応。",
+    "lat": 9.6507,
+    "lng": 123.8543,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "name": "ワンステッププーケット",
+    "nameEn": "One Step Phuket",
+    "country": "タイ",
+    "region": "プーケット",
+    "city": "プーケット市（ウィチット）",
+    "address": "8/71 Moo3 Kwang RD., T.Wichit A.Muang Phuket 83000 Thailand",
+    "phone": "+66-61-234-9618",
+    "email": "info@one-step-phuket.com",
+    "website": "https://one-step-phuket.com/",
+    "languages": [
+      "日本語",
+      "英語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "オープンウォーター",
+      "アドバンス",
+      "ダイブクルーズ",
+      "ボートチャーター",
+      "マンツーマン"
+    ],
+    "description": "2010年創業、15年以上無事故の日本人経営ショップ。完全プライベート制・1ガイド最大4名。追加料金なしの明瞭会計。",
+    "lat": 7.86,
+    "lng": 98.37,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "6",
+    "name": "ほうぼう屋プーケット店",
+    "nameEn": "Houbouya Phuket",
+    "country": "タイ",
+    "region": "プーケット",
+    "city": "ラワイ",
+    "address": "135/31 Moo 4, Patak Villa Soi 1., T.Rawai, A.Muang, Phuket 83130, Thailand",
+    "phone": "+66-81-088-2031",
+    "email": null,
+    "website": "https://houbou-ya-phuket.com/",
+    "languages": [
+      "日本語",
+      "英語",
+      "タイ語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "インストラクター開発コース",
+      "スノーケリング"
+    ],
+    "description": "タイ国内最多の日本人ダイバー認定実績を持つ日系最大ショップ。20年以上の安全実績。プーケット・サムイ・シミラン・タオ島の4店舗展開。",
+    "lat": 7.8185,
+    "lng": 98.3405,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "7",
+    "name": "カタダイビングサービス",
+    "nameEn": "Kata Diving Service",
+    "country": "タイ",
+    "region": "プーケット",
+    "city": "カタ",
+    "address": "32 Karon Rd., A.Muang, Phuket 83100, Thailand",
+    "phone": "+66-76-330-392",
+    "email": null,
+    "website": "https://katadiving.info/",
+    "languages": [
+      "日本語",
+      "英語",
+      "タイ語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "オープンウォーター",
+      "アドバンス",
+      "ダイブクルーズ",
+      "アイランドツアー",
+      "サーフィン"
+    ],
+    "description": "プーケット老舗の日本語対応ダイビングショップ。カタビーチから車2分。ラチャ島・ピピ島・シミラン諸島へのツアーを催行。",
+    "lat": 7.8201,
+    "lng": 98.3063,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "8",
+    "name": "コーラルグランドダイバーズ（コータオナッツ）",
+    "nameEn": "Koh Tao Nuts / Coral Grand Divers",
+    "country": "タイ",
+    "region": "タオ島",
+    "city": "コータオ",
+    "address": "Koh Tao Nuts (Montra), 1/51 Moo2, Koh Tao, 84360 Surat Thani, Thailand",
+    "phone": "+66-80-605-6167",
+    "email": null,
+    "website": "https://japancoralgranddivers.com/",
+    "languages": [
+      "日本語",
+      "英語",
+      "タイ語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "スペシャリティ",
+      "ダイブマスター",
+      "インストラクター開発コース",
+      "ダイブクルーズ",
+      "マンツーマン"
+    ],
+    "description": "タオ島の日本人常駐ダイビングショップ。PADIコースはマンツーマン〜少人数で開催。ファンダイブ2,400バーツ〜。シミラン・ミャンマーへのダイブクルーズ（11月〜4月）も催行。",
+    "lat": 10.0886,
+    "lng": 99.8286,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "9",
+    "name": "ビッグブルーダイビング コータオ",
+    "nameEn": "Big Blue Diving Koh Tao",
+    "country": "タイ",
+    "region": "タオ島",
+    "city": "コータオ",
+    "address": "14/126 Moo 1, Koh Tao, Koh Phangan, Suratthani 84360, Thailand",
+    "phone": "+66-77-456-179",
+    "email": null,
+    "website": "https://www.bigbluediving.jp/",
+    "languages": [
+      "日本語",
+      "英語",
+      "タイ語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "オープンウォーター",
+      "アドバンス",
+      "ナイトロックス",
+      "レスキュー",
+      "ダイブマスター",
+      "ライブアボード"
+    ],
+    "description": "日本人経営のタオ島＆カオラックのダイビングショップ。日本語スタッフ・日本語教材・魚図鑑完備。自社クルーズ船MV Blue Dolphin運航。",
+    "lat": 9.4273,
+    "lng": 99.9841,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "10",
+    "name": "ノーブルバリ ダイビングリゾート",
+    "nameEn": "Noble Bali Diving Resort",
+    "country": "インドネシア",
+    "region": "バリ島",
+    "city": "トランバン（カランアサム）",
+    "address": "BD. Tulamben DS. Tulamben Kubu Karangasem Bali Indonesia",
+    "phone": "+62-81-756-2315",
+    "email": "noblebali@gmail.com",
+    "website": "https://www.noblebalidive.com/",
+    "languages": [
+      "日本語",
+      "英語",
+      "インドネシア語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "オープンウォーター",
+      "アドバンス",
+      "PADI",
+      "BSAC",
+      "スノーケリング",
+      "水中写真"
+    ],
+    "description": "バリ島北東部トランバンの日本人経営ダイビングリゾート。6,000m²超の敷地にダイビングセンター・ホテル10室・レストランを完備。デンパサール空港から約2.5時間。",
+    "lat": -8.279,
+    "lng": 115.593,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "11",
+    "name": "バリ・ビュー・ダイブセンター",
+    "nameEn": "Bali View Dive Center",
+    "country": "インドネシア",
+    "region": "バリ島",
+    "city": "デンパサール",
+    "address": "Jl. Griya Anyar No. 48 Denpasar Bali Indonesia",
+    "phone": "+62-81-797-1-7915",
+    "email": null,
+    "website": "https://bali-love.com/",
+    "languages": [
+      "日本語",
+      "英語",
+      "インドネシア語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "オープンウォーター",
+      "アドバンス",
+      "ダイブサファリ",
+      "スノーケリング",
+      "マリンスポーツ",
+      "マンツーマン"
+    ],
+    "description": "日本人インストラクター3名常駐・27年の実績。日本人2,000名以上の講習実績。リピーター率70%以上。完全プライベートレッスン制。",
+    "lat": -8.705,
+    "lng": 115.233,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "12",
+    "name": "GOダイブバリ",
+    "nameEn": "Go Dive Bali",
+    "country": "インドネシア",
+    "region": "バリ島",
+    "city": "デンパサール",
+    "address": "Jl Gunung sari perimaguraha No28 Denpasar selatan Bali Indonesia",
+    "phone": "+62-819-444-935-55",
+    "email": null,
+    "website": "https://godive-bali.com/",
+    "languages": [
+      "日本語",
+      "英語",
+      "インドネシア語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "オープンウォーター",
+      "アドバンス",
+      "スキンダイビング",
+      "AIDAフリーダイビング",
+      "スノーケリング"
+    ],
+    "description": "日本人インストラクター経営。料金・説明がわかりやすい。1名からの料金追加なし・4名以上グループ割引。機材レンタル無料。",
+    "lat": -8.71,
+    "lng": 115.22,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "13",
+    "name": "モルディビアンスターズ",
+    "nameEn": "Maldivian Stars",
+    "country": "モルディブ",
+    "region": "北マーレ環礁",
+    "city": "フルマーレ",
+    "address": "VINARES 1-A, Hulhumale, Republic of Maldives",
+    "phone": "+960-335-0890",
+    "email": "booking@maldivian-stars.com",
+    "website": "https://maldivian-stars.com/",
+    "languages": [
+      "日本語",
+      "英語",
+      "ディベヒ語"
+    ],
+    "courses": [
+      "ファンダイブ",
+      "ダイブサファリ",
+      "ライブアボード",
+      "ナイトロックス"
+    ],
+    "description": "日本語対応スタッフ在籍（英語・日本語・ディベヒ語対応）のダイビングサファリ専門会社。最大22名収容の大型クルーズ船運航。20年以上の経験を持つPADIマスターダイバートレーナー在籍。",
+    "lat": 4.2105,
+    "lng": 73.5392,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "14",
+    "name": "パパラギダイビングスクール グアム店",
+    "nameEn": "Papalagi Diving School Guam",
+    "country": "アメリカ（グアム）",
+    "region": "グアム",
+    "city": "タムニン",
+    "address": "P.O. BOX 9871 TAMUNING GUAM 96913 USA (Pear Marine Hotel内)",
+    "phone": "+1-671-688-8248",
+    "email": "yoyaku@papalagi.co.jp",
+    "website": "https://papalagiguam.com/",
+    "languages": [
+      "日本語",
+      "英語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "プライベートダイビング",
+      "マンツーマン"
+    ],
+    "description": "グアムで30年以上の歴史と実績。現地就労資格を持つ日本人インストラクターが全行程を日本語で担当。自社ボート「Mayfly」で最大6名の少人数制。",
+    "lat": 13.4871,
+    "lng": 144.7785,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "15",
+    "name": "ゴーダイブグアム",
+    "nameEn": "GO DIVE GUAM",
+    "country": "アメリカ（グアム）",
+    "region": "グアム",
+    "city": "グアム",
+    "address": "Guam, USA",
+    "phone": null,
+    "email": null,
+    "website": "https://godiveguam.com/",
+    "languages": [
+      "日本語",
+      "英語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "オープンウォーター",
+      "アドバンス",
+      "ナイトロックス",
+      "ビーチダイビング",
+      "リフレッシュコース",
+      "イルカウォッチング",
+      "マンツーマン"
+    ],
+    "description": "スタッフ全員がアメリカ合衆国ビザを持つ日本人インストラクター。自社ボートで少人数制・プライベートダイビング。100%日本語対応。",
+    "lat": 13.45,
+    "lng": 144.7652,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "16",
+    "name": "サンシャインスキューバ",
+    "nameEn": "Sunshine Scuba",
+    "country": "アメリカ（ハワイ）",
+    "region": "オアフ島",
+    "city": "ホノルル",
+    "address": "642 Cooke St., Honolulu, HI 96813, USA",
+    "phone": "+1-808-593-8865",
+    "email": null,
+    "website": "https://sunshinescuba.com/",
+    "languages": [
+      "日本語",
+      "英語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "マスタースキューバダイバー",
+      "ダイブマスター",
+      "インストラクター開発コース",
+      "ナイトダイブ",
+      "リフレッシュダイビング"
+    ],
+    "description": "1991年創業。日本人経営として世界初・米国内唯一のPADI 5スターCDCショップ。日本人コースディレクター4名在籍。1,300名以上のインストラクターを輩出。",
+    "lat": 21.3,
+    "lng": -157.857,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "17",
+    "name": "グリーンドルフィンダイブショップ",
+    "nameEn": "Green Dolphin Dive Shop",
+    "country": "アメリカ（ハワイ）",
+    "region": "オアフ島",
+    "city": "ホノルル（ハワイカイ）",
+    "address": "7192 Kalanianaole Hwy #D-100, Honolulu, HI 96825, USA",
+    "phone": "+1-808-955-6427",
+    "email": "info@gd-hawaii.com",
+    "website": "https://www.gd-hawaii.com/",
+    "languages": [
+      "日本語",
+      "英語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "オープンウォーター",
+      "アドバンス",
+      "プライベートボートチャーター",
+      "水中写真",
+      "マンツーマン"
+    ],
+    "description": "1996年創業。PADI 5スターダイブリゾート。オアフ島東側ハワイカイのココ・マリーナ・センター内に位置。日本人スタッフが完全サポート。",
+    "lat": 21.2813,
+    "lng": -157.7371,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "18",
+    "name": "アルウィング ケアンズ",
+    "nameEn": "ALWING Cairns",
+    "country": "オーストラリア",
+    "region": "ケアンズ・グレートバリアリーフ",
+    "city": "ケアンズ",
+    "address": "Cairns, Queensland, Australia",
+    "phone": null,
+    "email": "info@alwing.net",
+    "website": "https://alwing.net/",
+    "languages": [
+      "日本語",
+      "英語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "PADIコース",
+      "ダイブマスター",
+      "グレートバリアリーフツアー",
+      "スノーケリング",
+      "ドローンツアー",
+      "ウィングフォイル"
+    ],
+    "description": "ケアンズ在住25年以上の日本人インストラクター運営。少人数制。宿泊・食事・ダイビングセットのお得なプランあり。2009年創業。",
+    "lat": -16.9207,
+    "lng": 145.7722,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "19",
+    "name": "アクアマジック・パラオ",
+    "nameEn": "Aqua Magic Palau",
+    "country": "パラオ",
+    "region": "コロール",
+    "city": "コロール（マラカル島）",
+    "address": "Malakal Island, Madalaii Hamlet, Koror, Palau 96940",
+    "phone": "+680-488-1119",
+    "email": "aquamagicpalau@gmail.com",
+    "website": "https://www.aquamagicpalau.com/",
+    "languages": [
+      "日本語",
+      "英語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "ツアー"
+    ],
+    "description": "日本人インストラクター常駐のパラオのダイビングショップ。Marine Diving Dive & Travel Award 2018受賞。ゲストのダイビングスタイルに合わせた安全第一のガイディング。",
+    "lat": 7.33,
+    "lng": 134.462,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "20",
+    "name": "OMZダイビングサービス（ペリリュー島）",
+    "nameEn": "OMZ Diving Service Peleliu",
+    "country": "パラオ",
+    "region": "ペリリュー島",
+    "city": "ペリリュー",
+    "address": "Peleliu Island, Palau",
+    "phone": null,
+    "email": null,
+    "website": "https://peleliu.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "ファンダイブ",
+      "ドリフトダイビング"
+    ],
+    "description": "ペリリュー島在住の日本人ガイド（加藤洋平）によるこだわりの少人数制ダイビングショップ。スーパードリフトダイビング専門。「Pelelieu Express」などパラオ南部の絶景ポイントへ案内。",
+    "lat": 7.0114,
+    "lng": 134.2461,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "21",
+    "name": "デイドリーム・パラオ",
+    "nameEn": "Day Dream Palau",
+    "country": "パラオ",
+    "region": "コロール",
+    "city": "コロール",
+    "address": "Koror, Palau 96940",
+    "phone": "+680-488-4056",
+    "email": "info@daydream-palau.com",
+    "website": "https://daydreampalau.com/",
+    "languages": [
+      "日本語",
+      "英語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "ドリフトダイビング",
+      "ナイトダイブ",
+      "ツアー"
+    ],
+    "priceRange": "$150〜",
+    "description": "パラオ在住20年以上の日本人オーナーが運営。ブルーコーナーやジャーマンチャネルなど人気ポイントへ毎日出航。少人数制でゲストのレベルに合わせた丁寧なガイディングが好評。水中写真サービスも充実。",
+    "lat": 7.226,
+    "lng": 134.1312,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "22",
+    "name": "パラオダイビングセンター",
+    "nameEn": "Palau Diving Center",
+    "country": "パラオ",
+    "region": "コロール",
+    "city": "コロール（マラカル島）",
+    "address": "Malakal Island, Koror, Palau 96940",
+    "phone": "+680-488-2978",
+    "email": "info@palaudivingcenter.com",
+    "website": "https://pristineparadisepalau.com/experience/palau-diving-center/",
+    "languages": [
+      "日本語",
+      "英語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "ドリフトダイビング",
+      "PADIライセンス取得",
+      "リフレッシュコース"
+    ],
+    "priceRange": "$140〜",
+    "description": "PADIゴールドパーム認定のパラオ老舗ダイビングショップ。経験豊富な日本人ガイドが、世界遺産ロックアイランドの海を案内。ブルーコーナー、ブルーホール、ジャーマンチャネルなど主要ポイントへ毎日出航。",
+    "lat": 7.3336,
+    "lng": 134.4528,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "23",
+    "name": "マリンハウスシーサー那覇店",
+    "nameEn": "Marine House Seasir Naha",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "那覇市",
+    "address": "沖縄県那覇市港町2-3-13",
+    "phone": "098-868-8774",
+    "email": null,
+    "website": "https://www.seasir.com/naha/",
+    "languages": [
+      "日本語",
+      "英語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "オープンウォーター",
+      "アドバンス",
+      "スノーケリング",
+      "ホエールウォッチング"
+    ],
+    "priceRange": "¥8,000〜",
+    "description": "那覇発の慶良間諸島ダイビング専門店。自社大型ボートで毎日出航。体験ダイビングからライセンス取得まで対応。創業30年以上の実績で初心者にも安心。",
+    "lat": 26.243,
+    "lng": 127.68083,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "24",
+    "name": "ピンクマーリンクラブ",
+    "nameEn": "Pink Marlin Club",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "恩納村",
+    "address": "沖縄県国頭郡恩納村前兼久167",
+    "phone": "098-965-6060",
+    "email": null,
+    "website": "https://www.pinkmarlinclub.com/",
+    "languages": [
+      "日本語",
+      "英語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "オープンウォーター",
+      "アドバンス",
+      "ナイトダイブ",
+      "ビーチダイビング",
+      "ボートダイビング"
+    ],
+    "priceRange": "¥7,500〜",
+    "description": "沖縄本島・恩納村の老舗ダイビングショップ。青の洞窟や万座毛など人気ポイントへ毎日ガイド。宿泊施設併設でダイビング合宿にも最適。",
+    "lat": 26.4495,
+    "lng": 127.7983,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "25",
+    "name": "マリンサービスむるぬーし",
+    "nameEn": "Marine Service Murunushi",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "読谷村",
+    "address": "沖縄県中頭郡読谷村字高志保915 Gala青い海内",
+    "phone": "098-958-0854",
+    "email": null,
+    "website": "https://www.murunu-shi.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "オープンウォーター",
+      "アドバンス",
+      "スノーケリング",
+      "マンツーマン"
+    ],
+    "priceRange": "¥9,000〜",
+    "description": "沖縄・読谷村のマリンサービス。青の洞窟や慶良間諸島など人気ポイントを案内。1グループ貸切の少人数制で初心者も安心。沖縄県公認SDGsパートナーとして海を守るツアーを提供。",
+    "lat": 26.40874,
+    "lng": 127.71653,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "26",
+    "name": "ダイブハウスP-FISH",
+    "nameEn": "Dive House P-FISH",
+    "country": "日本",
+    "region": "東伊豆",
+    "city": "伊東市",
+    "address": "静岡県伊東市八幡野1243-150",
+    "phone": "0557-51-0645",
+    "email": null,
+    "website": "https://www.p-fishjp.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "水中写真"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "伊豆海洋公園を専門とするダイビングスクール。指導歴25年以上の経験豊富なインストラクターによる少人数制。城ヶ崎海岸駅から送迎あり、東京から日帰りで伊豆の海を楽しめます。",
+    "lat": 34.89429,
+    "lng": 139.10824,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "27",
+    "name": "伊豆海ダイビングリゾート",
+    "nameEn": "Izumi Diving Resort",
+    "country": "日本",
+    "region": "東伊豆",
+    "city": "伊東市",
+    "address": "静岡県伊東市富戸354-1",
+    "phone": "0557-51-8558",
+    "email": null,
+    "website": "https://izumidivingresort.com/",
+    "languages": [
+      "日本語",
+      "英語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "オープンウォーター",
+      "アドバンス",
+      "ナイトロックス",
+      "水中写真"
+    ],
+    "priceRange": "¥8,500〜",
+    "description": "創業20年以上、東伊豆・川奈を拠点とするPADI・SSI認定ダイブリゾート。少人数制で安全第一のガイディング。東京から電車で約2時間、川奈駅から送迎あり。初心者サポートも充実。",
+    "lat": 34.91022,
+    "lng": 139.13836,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "28",
+    "name": "アルファダイブ沖縄",
+    "nameEn": "Alpha Dive Okinawa",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "北谷町",
+    "address": "沖縄県中頭郡北谷町宮城2-95 嘉数ビル101",
+    "phone": "098-955-4430",
+    "email": null,
+    "website": "https://www.a-diveokinawa.com/",
+    "languages": [
+      "日本語",
+      "英語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "オープンウォーター",
+      "アドバンス",
+      "スノーケリング",
+      "慶良間ボートダイビング"
+    ],
+    "priceRange": "¥8,000〜",
+    "description": "北谷・砂辺に店舗を構え、自社船で慶良間諸島へ毎日出航。ショップ目の前の砂辺ビーチポイントまで徒歩1分。少人数制で初心者からベテランまで対応。冬季限定のホエールスイムも人気。",
+    "lat": 26.32945,
+    "lng": 127.74484,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "29",
+    "name": "ナチュラルブルー",
+    "nameEn": "Natural Blue",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "読谷村",
+    "address": "沖縄県中頭郡読谷村喜名193-2",
+    "phone": "090-9497-7374",
+    "email": null,
+    "website": "https://www.natural-blue.net/",
+    "languages": [
+      "日本語",
+      "英語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "スノーケリング",
+      "オープンウォーター",
+      "青の洞窟ダイビング",
+      "マンツーマン"
+    ],
+    "priceRange": "¥7,500〜",
+    "description": "沖縄県公認「青の洞窟エキスパート」認定店。安全対策優良店認定。完全貸切制で2歳から参加可能、店舗内に託児施設も併設。家族連れに大人気のショップ。",
+    "lat": 26.39853,
+    "lng": 127.75759,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "30",
+    "name": "沖縄ダイビングサービスMANA",
+    "nameEn": "Okinawa Diving Service MANA",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "那覇市",
+    "address": "沖縄県那覇市松山1-22-7 1F",
+    "phone": "098-860-3707",
+    "email": "info@mana1645.com",
+    "website": "https://www.mana1645.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "オープンウォーター",
+      "アドバンス",
+      "スノーケリング"
+    ],
+    "priceRange": "¥8,000〜",
+    "description": "那覇市内のアットホームな個人ショップ。2006年創業。その日の海況に合わせて沖縄本島全域からベストポイントへ案内。少人数制・レンタル器材無料・那覇市内送迎無料。",
+    "lat": 26.21893,
+    "lng": 127.67663,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "31",
+    "name": "ワールドダイビング",
+    "nameEn": "World Diving",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "恩納村",
+    "address": "沖縄県国頭郡恩納村仲泊47",
+    "phone": "098-989-1474",
+    "email": "world.d.net@gmail.com",
+    "website": "https://www.owd.jp/",
+    "languages": [
+      "日本語",
+      "英語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "オープンウォーター",
+      "アドバンス",
+      "スノーケリング",
+      "青の洞窟ダイビング",
+      "マンツーマン"
+    ],
+    "priceRange": "¥8,000〜",
+    "description": "恩納村のプライベートダイビングスクール。2011年開業。青の洞窟・万座・水納島など100以上のポイントへ案内。夫婦経営のアットホームな雰囲気で少人数制の丁寧なガイディングが好評。",
+    "lat": 26.43582,
+    "lng": 127.79948,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "32",
+    "name": "マリンサービスサンフィッシュ石垣島",
+    "nameEn": "Marine Service Sunfish Ishigakijima",
+    "country": "日本",
+    "region": "石垣島",
+    "city": "石垣市",
+    "address": "沖縄県石垣市真栄里393-32",
+    "phone": "050-5799-0684",
+    "email": null,
+    "website": "https://isigakijima-diving.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "オープンウォーター",
+      "スノーケリング",
+      "マンツーマン"
+    ],
+    "priceRange": "¥7,300〜",
+    "description": "石垣島で10年以上の実績を持つ初心者専門ダイビングショップ。完全少人数制で幻の島上陸やウミガメシュノーケリングが人気。写真無料プレゼント付き。",
+    "lat": 24.33819,
+    "lng": 124.18905,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "33",
+    "name": "AQUA COLOR'S",
+    "nameEn": "AQUA COLOR'S",
+    "country": "日本",
+    "region": "石垣島",
+    "city": "石垣市",
+    "address": "沖縄県石垣市新栄町8-11 1F北",
+    "phone": "0980-87-8866",
+    "email": "dive@aqua-colors.com",
+    "website": "https://aqua-colors.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "オープンウォーター",
+      "アドバンス",
+      "スノーケリング",
+      "ナイトダイブ"
+    ],
+    "priceRange": "¥5,500〜",
+    "description": "2013年開業のアットホームなダイビングショップ。体験ダイビングからライセンス講習まで幅広く対応。市街地から近くアクセス良好でリピーター多数。",
+    "lat": 24.34307,
+    "lng": 124.1529,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "35",
+    "name": "パパスダイビングスタジオ",
+    "nameEn": "PAPA'S Diving Studio",
+    "country": "日本",
+    "region": "小笠原諸島",
+    "city": "小笠原村",
+    "address": "東京都小笠原村父島字西町",
+    "phone": "04998-2-2373",
+    "email": "info@papasds.com",
+    "website": "https://papasds.com/",
+    "languages": [
+      "日本語",
+      "英語"
+    ],
+    "courses": [
+      "ファンダイブ",
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ナイトダイブ",
+      "ドルフィンスイム"
+    ],
+    "priceRange": "¥15,400〜",
+    "description": "日本初のPADI5スターダイブリゾート認定ショップ。体験ダイビングからインストラクターコースまで開催可能。併設コテージでの宿泊も人気。",
+    "lat": 27.09606,
+    "lng": 142.18725,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "36",
+    "name": "柏島ダイビングサービス AQUAS",
+    "nameEn": "Kashiwajima Diving Service AQUAS",
+    "country": "日本",
+    "region": "高知",
+    "city": "幡多郡大月町",
+    "address": "高知県幡多郡大月町大字柏島130",
+    "phone": "0880-76-0100",
+    "email": null,
+    "website": "https://kashiwajima.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター"
+    ],
+    "priceRange": "¥9,500〜",
+    "description": "柏島の目の前が海のダイビングショップ。マクロ生物の宝庫として全国のダイバーに人気。安心安全体験プログラムGOLD認定取得。宿泊施設も併設。",
+    "lat": 32.76592,
+    "lng": 132.63057,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "37",
+    "name": "柏島ダイビングサービス パラディ",
+    "nameEn": "Kashiwajima Diving Service PARADI",
+    "country": "日本",
+    "region": "高知",
+    "city": "幡多郡大月町",
+    "address": "高知県幡多郡大月町柏島562",
+    "phone": "0880-76-0081",
+    "email": "paradi@paradi.net",
+    "website": "https://www.paradi.net/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "オープンウォーター",
+      "アドバンス",
+      "エンリッチドエア"
+    ],
+    "priceRange": "¥9,900〜",
+    "description": "柏島生まれのオーナーが2000年に創業。年間4000名以上を案内する実績。ポイントが近く1ダイブごとに帰港するスタイルで快適。宿泊施設も併設。",
+    "lat": 32.76936,
+    "lng": 132.62552,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "48",
+    "name": "ダイビングショップ Tiara",
+    "nameEn": "Diving Shop Tiara",
+    "country": "日本",
+    "region": "東京",
+    "city": "渋谷区",
+    "address": "東京都渋谷区渋谷1-14-14 植村会館ビル8F",
+    "phone": "03-3407-3377",
+    "email": null,
+    "website": "https://www.tiara-diving.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ファンダイブ",
+      "リフレッシュコース"
+    ],
+    "priceRange": "¥12,000〜",
+    "description": "渋谷駅近くのダイビングスクール。女性スタッフも在籍しアットホームな雰囲気。伊豆をメインにツアーを開催。",
+    "lat": 35.65993,
+    "lng": 139.7026,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "49",
+    "name": "マグダイビングスクール",
+    "nameEn": "Mag Diving School",
+    "country": "日本",
+    "region": "東京",
+    "city": "墨田区",
+    "address": "東京都墨田区東向島2-30-10 増時ビル1F",
+    "phone": "03-3616-0036",
+    "email": null,
+    "website": "https://mag-diving-school.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥12,000〜",
+    "description": "曳舟駅から徒歩1分のPADI5スターダイブセンター。小さなお店ならではのきめ細やかなサービス。千葉・伊豆方面や伊豆諸島へのツアーを開催。",
+    "lat": 35.71812,
+    "lng": 139.81744,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "51",
+    "name": "パシフィカ自由が丘",
+    "nameEn": "Pacifica Jiyugaoka",
+    "country": "日本",
+    "region": "東京",
+    "city": "目黒区",
+    "address": "東京都目黒区自由が丘1-14-6 メイプルハウスB1F",
+    "phone": "03-5731-6388",
+    "email": null,
+    "website": "https://www.pacifica.co.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥12,000〜",
+    "description": "自由が丘駅近くのダイビングスクール。リゾートダイビングを得意とし、国内外への多彩なツアーを開催。少人数制の丁寧な講習。",
+    "lat": 35.60812,
+    "lng": 139.66906,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "52",
+    "name": "オーシャントライブ",
+    "nameEn": "OCEAN TRIBE",
+    "country": "日本",
+    "region": "東京",
+    "city": "世田谷区",
+    "address": "東京都世田谷区奥沢6-20-1 ユタカフォレスト自由が丘1 1F",
+    "phone": "03-6809-7108",
+    "email": "ocean@oceantribe.jp",
+    "website": "https://www.oceantribe.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ファンダイブ",
+      "リフレッシュコース"
+    ],
+    "priceRange": "¥12,000〜",
+    "description": "2002年オープンのPADI認定ダイビングスクール。自由が丘駅南口から徒歩3分。全てフリープラン・リクエスト制のダイビングスクール。",
+    "lat": 35.60411,
+    "lng": 139.6655,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "53",
+    "name": "mic21新宿店",
+    "nameEn": "mic21 Shinjuku",
+    "country": "日本",
+    "region": "東京",
+    "city": "新宿区",
+    "address": "東京都新宿区西新宿1-3-13 Zenken PlazaII 7F",
+    "phone": "03-3340-6231",
+    "email": null,
+    "website": "https://www.mic21.com/shop/show/shop/1.html",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "器材販売",
+      "器材メンテナンス",
+      "オーバーホール"
+    ],
+    "priceRange": null,
+    "description": "日本最大級のダイビング器材専門店。新品・中古のダイビング器材を豊富に取り揃え、オーバーホールやメンテナンスも対応。新宿駅南口から徒歩3分。",
+    "lat": 35.69329,
+    "lng": 139.69799,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "54",
+    "name": "mic21池袋店",
+    "nameEn": "mic21 Ikebukuro",
+    "country": "日本",
+    "region": "東京",
+    "city": "豊島区",
+    "address": "東京都豊島区南池袋2-27-5 カテイビル4F",
+    "phone": "03-3980-0432",
+    "email": null,
+    "website": "https://www.mic21.com/shop/show/shop/2.html",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "器材販売",
+      "器材メンテナンス",
+      "オーバーホール"
+    ],
+    "priceRange": null,
+    "description": "日本最大級のダイビング器材専門店mic21の池袋店。新品・中古器材の販売、修理、オーバーホールを実施。池袋駅東口から徒歩5分。",
+    "lat": 35.72835,
+    "lng": 139.71363,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "55",
+    "name": "ブルーサブ",
+    "nameEn": "Blue Sub",
+    "country": "日本",
+    "region": "東京",
+    "city": "新宿区",
+    "address": "東京都新宿区高田馬場1-22-5-102",
+    "phone": "03-3200-1404",
+    "email": "info@bluesub.com",
+    "website": "https://bluesub.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "創業50周年のPADI5スターダイブセンター。延べ20,000枚以上のライセンス発行実績。高田馬場駅から徒歩3分。",
+    "lat": 35.71032,
+    "lng": 139.70442,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "56",
+    "name": "aqua QUEST",
+    "nameEn": "aqua QUEST",
+    "country": "日本",
+    "region": "東京",
+    "city": "世田谷区",
+    "address": "東京都世田谷区太子堂1-12-39 三軒茶屋ビル3F",
+    "phone": "03-5433-3548",
+    "email": null,
+    "website": "https://www.aquaquest.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥12,000〜",
+    "description": "三軒茶屋エリアのダイビングスクール。少人数制で丁寧な講習が特徴。伊豆を中心にツアーを定期開催。",
+    "lat": 35.64538,
+    "lng": 139.67463,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "57",
+    "name": "OK MARINE PRO",
+    "nameEn": "OK Marine Pro",
+    "country": "日本",
+    "region": "東京",
+    "city": "練馬区",
+    "address": "東京都練馬区豊玉北4-30-8",
+    "phone": "03-3993-3824",
+    "email": null,
+    "website": "http://www.okmarine.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "1960年開業、日本初のPADI5スターダイブセンター認定店。自社プール併設で63年間無事故の実績。練馬駅近く。",
+    "lat": 35.73504,
+    "lng": 139.65684,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "63",
+    "name": "ソーシャルダイビング",
+    "nameEn": "Social Diving",
+    "country": "日本",
+    "region": "東京",
+    "city": "渋谷区",
+    "address": "東京都渋谷区渋谷3-6-2 エクラート渋谷5F",
+    "phone": "03-6712-6412",
+    "email": null,
+    "website": "https://socialdiving.jp/",
+    "languages": [
+      "日本語",
+      "英語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥12,000〜",
+    "description": "渋谷駅近くのソーシャルなダイビングコミュニティ。同世代の仲間とダイビングを楽しめるスタイルが人気。SNS映えする水中撮影サポートも。",
+    "lat": 35.65798,
+    "lng": 139.70497,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "64",
+    "name": "スポートツアーズ",
+    "nameEn": "Sport Tours",
+    "country": "日本",
+    "region": "東京",
+    "city": "品川区",
+    "address": "東京都品川区東五反田1-10-7 アイオス五反田ビル3F",
+    "phone": "03-3280-5611",
+    "email": null,
+    "website": "https://www.sporttours.co.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "ファンダイブ",
+      "ドルフィンスイム"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "五反田駅近くの老舗ダイビングスクール。PADI認定店として幅広く対応。御蔵島ドルフィンスイムも人気。",
+    "lat": 35.62765,
+    "lng": 139.72588,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "65",
+    "name": "セブンエース",
+    "nameEn": "Seven Ace",
+    "country": "日本",
+    "region": "東京",
+    "city": "品川区",
+    "address": "東京都品川区西五反田1-17-1 第2東栄ビル3F",
+    "phone": "03-3490-0198",
+    "email": null,
+    "website": "https://www.sevenace.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "ファンダイブ",
+      "エンリッチドエア"
+    ],
+    "priceRange": "¥12,000〜",
+    "description": "五反田駅西口のPADI5スター認定ダイビングスクール。20年以上の実績。伊豆を中心にツアーを毎週開催。平日夜のプール講習も実施。",
+    "lat": 35.62403,
+    "lng": 139.72206,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "66",
+    "name": "ダイブナビ スクーバアカデミー",
+    "nameEn": "Dive Navi Scuba Academy",
+    "country": "日本",
+    "region": "東京",
+    "city": "港区",
+    "address": "東京都港区新橋3-7-4 赤レンガ通りビル5F",
+    "phone": "03-5777-6010",
+    "email": null,
+    "website": "https://www.divenavi.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "ファンダイブ",
+      "海外ダイビングツアー"
+    ],
+    "priceRange": "¥15,000〜",
+    "description": "新橋駅近くのダイビングスクール。国内最大級のダイビング専門旅行会社が運営。ライセンス取得後は世界中のリゾートツアーに参加可能。",
+    "lat": 35.66535,
+    "lng": 139.75478,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "67",
+    "name": "S2 CLUB東京店",
+    "nameEn": "S2 CLUB Tokyo",
+    "country": "日本",
+    "region": "東京",
+    "city": "渋谷区",
+    "address": "東京都渋谷区代々木1-45-3 山本ビル1F",
+    "phone": "03-3379-1516",
+    "email": null,
+    "website": "https://www.s2club.net/",
+    "languages": [
+      "日本語",
+      "英語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "インストラクターコース",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "代々木駅近くのPADI5スターIDCセンター。東京・沖縄・伊豆に店舗展開。ライセンス取得からインストラクター養成まで対応。毎週末伊豆ツアーを開催。",
+    "lat": 35.68224,
+    "lng": 139.69838,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "68",
+    "name": "ワールドツアープランナーズ",
+    "nameEn": "World Tour Planners",
+    "country": "日本",
+    "region": "東京",
+    "city": "渋谷区",
+    "address": "東京都渋谷区恵比寿南1-2-11 フォーシーズン恵比寿ビル5F",
+    "phone": "03-5724-3900",
+    "email": null,
+    "website": "https://www.wtp.co.jp/",
+    "languages": [
+      "日本語",
+      "英語"
+    ],
+    "courses": [
+      "ファンダイブ",
+      "海外ダイビングツアー",
+      "ダイブクルーズ",
+      "リゾートダイビング"
+    ],
+    "priceRange": "¥50,000〜",
+    "description": "恵比寿に本社を置くダイビング専門旅行会社。モルディブ・パラオ・ガラパゴスなど世界中のリゾートへのツアーを企画。ダイブクルーズが充実。",
+    "lat": 35.64621,
+    "lng": 139.70803,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "74",
+    "name": "さいとうダイビングサービス",
+    "nameEn": "Saito Diving Service",
+    "country": "日本",
+    "region": "伊豆諸島",
+    "city": "大島町",
+    "address": "東京都大島町元町字馬の背272-1",
+    "phone": "04992-2-3534",
+    "email": null,
+    "website": "https://www.saito-ds.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "オープンウォーター",
+      "アドバンス"
+    ],
+    "priceRange": "¥8,800〜",
+    "description": "伊豆大島で30年以上の実績を持つ老舗ダイビングサービス。地形ポイントやマクロ生物が魅力。ベテランガイドが海況に応じたベストポイントを案内。",
+    "lat": 34.75853,
+    "lng": 139.3593,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "76",
+    "name": "伊豆大島ダイビングセンター",
+    "nameEn": "Izu Oshima Diving Center",
+    "country": "日本",
+    "region": "伊豆諸島",
+    "city": "大島町",
+    "address": "東京都大島町元町1-1",
+    "phone": "04992-2-1232",
+    "email": null,
+    "website": "https://izuohshima-diving.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "オープンウォーター",
+      "アドバンス",
+      "スノーケリング"
+    ],
+    "priceRange": "¥8,800〜",
+    "description": "伊豆大島のPADI認定ダイビングセンター。元町港近くでアクセス良好。体験ダイビングからライセンス講習まで幅広く対応。",
+    "lat": 34.75085,
+    "lng": 139.35502,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "77",
+    "name": "イエローダイブ",
+    "nameEn": "Yellow Dive",
+    "country": "日本",
+    "region": "伊豆諸島",
+    "city": "大島町",
+    "address": "東京都大島町元町字水溜210-6",
+    "phone": "04992-2-4186",
+    "email": "yellowkomugi@gmail.com",
+    "website": "https://yellow-dive.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "オープンウォーター"
+    ],
+    "priceRange": "¥8,000〜",
+    "description": "2004年創業のゲストハウス併設ダイビングショップ。スタッフ1名の小さなお店ならではのアットホームなサービス。併設宿コムギテラスで宿泊も可能。",
+    "lat": 34.76209,
+    "lng": 139.35072,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "80",
+    "name": "比三一ダイバーズクラブ",
+    "nameEn": "Himiichi Divers Club",
+    "country": "日本",
+    "region": "伊豆諸島",
+    "city": "三宅村",
+    "address": "東京都三宅村神着1220",
+    "phone": "04994-2-0240",
+    "email": null,
+    "website": null,
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "ファンダイブ",
+      "体験ダイビング",
+      "ドルフィンスイム"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "三宅島のダイビングクラブ。島の海を知り尽くしたベテランガイドが案内。地形ダイブやドルフィンスイムが人気。",
+    "lat": 34.11751,
+    "lng": 139.53309,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "81",
+    "name": "クラウンダイバース",
+    "nameEn": "Crown Divers",
+    "country": "日本",
+    "region": "伊豆諸島",
+    "city": "三宅村",
+    "address": "東京都三宅村伊豆646",
+    "phone": "04994-2-1511",
+    "email": null,
+    "website": null,
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "ファンダイブ",
+      "体験ダイビング",
+      "ドルフィンスイム"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "三宅島のダイビングサービス。火山島の独特な地形を楽しめるポイントへ案内。御蔵島ドルフィンスイムも催行。",
+    "lat": 34.11776,
+    "lng": 139.51663,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "82",
+    "name": "式根島マリン",
+    "nameEn": "Shikinejima Marine",
+    "country": "日本",
+    "region": "伊豆諸島",
+    "city": "新島村",
+    "address": "東京都新島村式根島255",
+    "phone": "04992-7-0432",
+    "email": null,
+    "website": null,
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "スノーケリング"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "式根島唯一のダイビングサービス。透明度抜群の式根島の海でダイビングが楽しめる。温泉とセットで楽しむ島旅が人気。",
+    "lat": 34.32479,
+    "lng": 139.21639,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "83",
+    "name": "シーダイブ",
+    "nameEn": "Sea Dive",
+    "country": "日本",
+    "region": "伊豆諸島",
+    "city": "八丈町",
+    "address": "東京都八丈島八丈町三根4423-2",
+    "phone": "04996-2-4900",
+    "email": null,
+    "website": "https://www.seadive.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "オープンウォーター",
+      "アドバンス"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "八丈島のダイビングサービス。黒潮の影響を受けた美しい海で回遊魚からマクロまで楽しめる。ウミガメとの遭遇率も高い。",
+    "lat": 33.12462,
+    "lng": 139.79844,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "88",
+    "name": "パパラギダイビングスクール東京店",
+    "nameEn": "Papalagi Diving School Tokyo",
+    "country": "日本",
+    "region": "東京",
+    "city": "渋谷区",
+    "address": "東京都渋谷区恵比寿南1-4-1 恵比寿プランタンビルB1",
+    "phone": "03-3719-4377",
+    "email": null,
+    "website": "https://www.papalagi.co.jp/school/tokyo/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "ファンダイブ",
+      "スキンダイビング"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "創業40年以上の老舗ダイビングスクール。PADI5スターIDセンター認定。恵比寿駅から徒歩1分。全国に7店舗展開し、伊豆・沖縄ツアーを毎日開催。",
+    "lat": 35.64661,
+    "lng": 139.70913,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "89",
+    "name": "パパラギダイビングスクール新宿店",
+    "nameEn": "Papalagi Diving School Shinjuku",
+    "country": "日本",
+    "region": "東京",
+    "city": "新宿区",
+    "address": "東京都新宿区西新宿7-4-4 武蔵ビル5F",
+    "phone": "03-3365-0441",
+    "email": null,
+    "website": "https://www.papalagi.co.jp/school/shinjuku/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "パパラギダイビングスクール新宿店。新宿駅西口から徒歩5分。初心者向けライセンス取得からプロコースまで対応。",
+    "lat": 35.69596,
+    "lng": 139.69856,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "90",
+    "name": "パパラギダイビングスクール池袋店",
+    "nameEn": "Papalagi Diving School Ikebukuro",
+    "country": "日本",
+    "region": "東京",
+    "city": "豊島区",
+    "address": "東京都豊島区南池袋2-26-7 城北ビル7F",
+    "phone": "03-3980-5572",
+    "email": null,
+    "website": "https://www.papalagi.co.jp/school/ikebukuro/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "パパラギダイビングスクール池袋店。池袋駅東口から徒歩5分。少人数制でアットホームな雰囲気の中、安全なダイビング講習を実施。",
+    "lat": 35.72803,
+    "lng": 139.71334,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "91",
+    "name": "パパラギダイビングスクール立川店",
+    "nameEn": "Papalagi Diving School Tachikawa",
+    "country": "日本",
+    "region": "東京",
+    "city": "立川市",
+    "address": "東京都立川市曙町2-9-4 菊屋ビル3F",
+    "phone": "042-522-9977",
+    "email": null,
+    "website": "https://www.papalagi.co.jp/school/tachikawa/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "パパラギダイビングスクール立川店。立川駅北口から徒歩3分。多摩地区からの通いやすさが魅力。初心者からプロコースまで対応。",
+    "lat": 35.70131,
+    "lng": 139.41557,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "92",
+    "name": "パパラギダイビングスクール町田店",
+    "nameEn": "Papalagi Diving School Machida",
+    "country": "日本",
+    "region": "東京",
+    "city": "町田市",
+    "address": "東京都町田市森野1-15-12 町田プリモビル2F",
+    "phone": "042-721-0225",
+    "email": null,
+    "website": "https://www.papalagi.co.jp/school/machida/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "パパラギダイビングスクール町田店。町田駅から徒歩3分。神奈川県からのアクセスも良好。初心者からプロコースまで対応。",
+    "lat": 35.54328,
+    "lng": 139.44377,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "93",
+    "name": "ココナッツ東京店",
+    "nameEn": "Coconut Tokyo",
+    "country": "日本",
+    "region": "東京",
+    "city": "千代田区",
+    "address": "東京都千代田区神田淡路町1-19 白須ビル1F",
+    "phone": "03-5298-7731",
+    "email": null,
+    "website": "https://www.coconut.co.jp/honten/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "インストラクターコース",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "1987年創業、PADI5スターCDC認定。37年間無違反・無事故の実績で20,000人以上のダイバーを認定。東京・横浜・千葉・沖縄・石垣に5店舗展開。",
+    "lat": 35.69545,
+    "lng": 139.76589,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "94",
+    "name": "DIVE海とき",
+    "nameEn": "Dive Umitoki",
+    "country": "日本",
+    "region": "伊豆諸島",
+    "city": "神津島村",
+    "address": "東京都神津島村",
+    "phone": null,
+    "email": null,
+    "website": "https://umitoki-kozushima.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "神津島のダイビングショップ。透明度の高い神津島の海でダイビングを楽しめる。",
+    "lat": 34.20552,
+    "lng": 139.1345,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "95",
+    "name": "AQUAVIT",
+    "nameEn": "Aquavit",
+    "country": "日本",
+    "region": "伊豆諸島",
+    "city": "大島町",
+    "address": "東京都大島町元町字北野1-92",
+    "phone": null,
+    "email": null,
+    "website": "https://www.aquavit-web.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "伊豆大島のPADI認定ダイビングセンター。ファンダイブ、体験ダイビング、各種ライセンス講習を提供。宿泊施設も完備。東京・虎ノ門にも店舗あり。",
+    "lat": 34.77933,
+    "lng": 139.35451,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "96",
+    "name": "マレア池袋店",
+    "nameEn": "Marea Ikebukuro",
+    "country": "日本",
+    "region": "東京",
+    "city": "豊島区",
+    "address": "東京都豊島区南池袋2-32-2 今田ビル1F",
+    "phone": "0120-229-433",
+    "email": null,
+    "website": "https://www.marea.jp/store/ikebukuro/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "PADI5スターダイブセンター。全国最優秀店舗に2年連続で選出。自社大型プール完備。池袋駅から徒歩4分。",
+    "lat": 35.72668,
+    "lng": 139.71524,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "97",
+    "name": "マレア新宿店",
+    "nameEn": "Marea Shinjuku",
+    "country": "日本",
+    "region": "東京",
+    "city": "新宿区",
+    "address": "東京都新宿区新宿4-3-30 ランザンAYビル101",
+    "phone": "0120-231-432",
+    "email": null,
+    "website": "https://www.marea.jp/store/shinjuku/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "PADI5スターダイブセンター。顧客満足度3冠獲得。自社ダイビングプール完備。新宿三丁目駅から徒歩1分。",
+    "lat": 35.68903,
+    "lng": 139.70439,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "98",
+    "name": "マレア東京店",
+    "nameEn": "Marea Tokyo",
+    "country": "日本",
+    "region": "東京",
+    "city": "中央区",
+    "address": "東京都中央区日本橋本町4-2-11 エビスビル1F",
+    "phone": "0120-854-070",
+    "email": null,
+    "website": "https://www.marea.jp/store/tokyo/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "PADI5スターダイブセンター。7年連続全国最優秀店舗選出。大型自社プール完備。新日本橋駅から徒歩1分。",
+    "lat": 35.68953,
+    "lng": 139.77398,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "99",
+    "name": "スキューバプロショップ東京",
+    "nameEn": "Scuba Pro Shop Tokyo",
+    "country": "日本",
+    "region": "東京",
+    "city": "渋谷区",
+    "address": "東京都渋谷区渋谷1-22-2 グラフィオ渋谷101",
+    "phone": null,
+    "email": null,
+    "website": "https://scubaproshop.co.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "PADI高ランク認定ショップ。マリンダイビング大賞で国内サービス部門1位を複数回受賞。渋谷駅から徒歩3分。大井町・東伊豆にも店舗あり。",
+    "lat": 35.6616,
+    "lng": 139.69966,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "100",
+    "name": "キューピッドダイビングスクール",
+    "nameEn": "Cupid Diving School",
+    "country": "日本",
+    "region": "東京",
+    "city": "北区",
+    "address": "東京都北区岩淵町34-1 山田ビル1F",
+    "phone": "03-6303-5413",
+    "email": null,
+    "website": "https://cupid.ne.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "PADI5スターダイブセンター。1999年オープン。年間100本のダイビングツアーを企画。赤羽岩淵駅から徒歩0分。",
+    "lat": 35.78359,
+    "lng": 139.7223,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "101",
+    "name": "グラッド",
+    "nameEn": "Glad",
+    "country": "日本",
+    "region": "東京",
+    "city": "荒川区",
+    "address": "東京都荒川区東尾久4-38-12 1階",
+    "phone": "03-6807-9206",
+    "email": null,
+    "website": "https://www.diving-glad.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "少人数制のダイビングスクール。インストラクター1名につき最大4名。無料送迎サービスあり。赤土小学校前駅から徒歩5分。",
+    "lat": 35.74326,
+    "lng": 139.76663,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "102",
+    "name": "アロハダイブ",
+    "nameEn": "Aloha Dive",
+    "country": "日本",
+    "region": "東京",
+    "city": "足立区",
+    "address": "東京都足立区千住",
+    "phone": "03-5813-3868",
+    "email": null,
+    "website": "https://www.aloha-dive.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "PADIダイブセンター。専用車での無料往復送迎あり。北千住駅から徒歩4分。",
+    "lat": 35.75213,
+    "lng": 139.80228,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "103",
+    "name": "パルダイビングスクール",
+    "nameEn": "Pal Diving School",
+    "country": "日本",
+    "region": "東京",
+    "city": "葛飾区",
+    "address": "東京都葛飾区新小岩",
+    "phone": null,
+    "email": null,
+    "website": "http://d-pal.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "新小岩駅から徒歩8分のダイビングスクール。千葉や伊豆を中心にツアーを開催。",
+    "lat": 35.71599,
+    "lng": 139.86113,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "104",
+    "name": "フィッシュアイランドクルー",
+    "nameEn": "Fish Island Crew",
+    "country": "日本",
+    "region": "伊豆諸島",
+    "city": "大島町",
+    "address": "東京都大島町",
+    "phone": null,
+    "email": null,
+    "website": "https://www.fic-web.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "伊豆大島のPADI認定ダイビング講習専門店。秋の浜を中心に活動。体験からプロダイバーコースまで提供。",
+    "lat": 34.74994,
+    "lng": 139.35598,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "105",
+    "name": "イエローダイブ",
+    "nameEn": "Yellow Dive",
+    "country": "日本",
+    "region": "伊豆諸島",
+    "city": "大島町",
+    "address": "東京都大島町元町字水溜210-6",
+    "phone": "04992-2-4186",
+    "email": "yellowkomugi@gmail.com",
+    "website": "https://yellow-dive.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "2004年創業の伊豆大島ダイビングショップ。ゲストハウス併設。少人数制でのんびりダイビングが楽しめる。",
+    "lat": 34.76209,
+    "lng": 139.35072,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "106",
+    "name": "テアーズブルー",
+    "nameEn": "Tears Blue",
+    "country": "日本",
+    "region": "伊豆諸島",
+    "city": "神津島村",
+    "address": "東京都神津島村",
+    "phone": null,
+    "email": null,
+    "website": "https://tearsblue.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "リフレッシュダイビング"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "神津島のダイビングショップ。前浜海岸へ徒歩10歩の好立地。初心者やブランクのある方も安心。",
+    "lat": 34.20552,
+    "lng": 139.1345,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "107",
+    "name": "小笠原ダイビングセンター",
+    "nameEn": "Ogasawara Diving Center",
+    "country": "日本",
+    "region": "小笠原諸島",
+    "city": "小笠原村",
+    "address": "東京都小笠原村父島字東町",
+    "phone": "04998-2-2021",
+    "email": null,
+    "website": "http://ogasawara-dc.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "ホエールウォッチング",
+      "シュノーケリング"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "小笠原海洋開発(株)運営。クルーザー「アイランドクイーン」での海案内。宿泊施設併設。",
+    "lat": 27.09523,
+    "lng": 142.19455,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "108",
+    "name": "マリンハウス レイアロハ",
+    "nameEn": "Marine House Lei Aloha",
+    "country": "日本",
+    "region": "静岡",
+    "city": "三島市",
+    "address": "静岡県三島市南本町13-41",
+    "phone": "055-981-7800",
+    "email": null,
+    "website": "https://www.marinhouse-leialoha.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "インストラクターコース",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "PADI5スターIDセンター。少人数制で全プログラムフルレンタル無料。三島駅より無料送迎あり。西伊豆・東伊豆にも店舗展開。",
+    "lat": 35.11398,
+    "lng": 138.91495,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "109",
+    "name": "Dive Terry's",
+    "nameEn": "Dive Terrys",
+    "country": "日本",
+    "region": "静岡",
+    "city": "浜松市",
+    "address": "静岡県浜松市中央区細島町12-2",
+    "phone": "053-462-6525",
+    "email": null,
+    "website": "https://www.terrys.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "インストラクターコース",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "PADI5スターIDセンター。1986年オープン。静岡西部で唯一のPADIゴールドカード発行店。少人数制講習。",
+    "lat": 34.72418,
+    "lng": 137.75148,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "110",
+    "name": "COCOMO OSEZAKI",
+    "nameEn": "Cocomo Osezaki",
+    "country": "日本",
+    "region": "西伊豆",
+    "city": "沼津市",
+    "address": "静岡県沼津市西浦江梨917-3",
+    "phone": "055-919-7043",
+    "email": null,
+    "website": "https://www.cocomo-ds.net/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "インストラクターコース",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "PADI5スターIDダイブリゾート。大瀬崎でツアー・各講習・プロコースを開催。伊豆長岡駅まで無料送迎あり。",
+    "lat": 35.02371,
+    "lng": 138.78681,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "111",
+    "name": "Collins'D.C.",
+    "nameEn": "Collins DC",
+    "country": "日本",
+    "region": "西伊豆",
+    "city": "松崎町",
+    "address": "静岡県賀茂郡松崎町雲見250-2",
+    "phone": "0558-45-0123",
+    "email": null,
+    "website": "http://collinsdc.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "PADI5スターIDセンター。1992年オープン。雲見で唯一のダイバー専用施設あり。自社ボート・タンク充填所所有。",
+    "lat": 34.72006,
+    "lng": 138.74712,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "112",
+    "name": "稲取マリンスポーツセンター",
+    "nameEn": "Inatori Marine Sports Center",
+    "country": "日本",
+    "region": "東伊豆",
+    "city": "東伊豆町",
+    "address": "静岡県賀茂郡東伊豆町稲取",
+    "phone": null,
+    "email": null,
+    "website": "https://i-mc.co.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "インストラクターコース",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "屋外温水ダイビングプール完備。3階建マリンハウスに充実の設備。伊豆稲取駅より無料送迎あり。東京店もあり。",
+    "lat": 34.78473,
+    "lng": 139.02617,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "113",
+    "name": "ダイビングスクール海の学校",
+    "nameEn": "Umi no Gakkou Diving School",
+    "country": "日本",
+    "region": "東伊豆",
+    "city": "伊東市",
+    "address": "静岡県伊東市川奈1311-6",
+    "phone": "0557-48-7401",
+    "email": null,
+    "website": "https://www.umi-dream.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "インストラクターコース",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "PADI5スターIDリゾート。ダイビングスクール専門店。初心者から丁寧に指導。年中無休。",
+    "lat": 34.95154,
+    "lng": 139.1271,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "114",
+    "name": "ドラゴンレディ",
+    "nameEn": "Dragon Lady",
+    "country": "日本",
+    "region": "南伊豆",
+    "city": "下田市",
+    "address": "静岡県下田市白浜2732-7",
+    "phone": "0558-23-2757",
+    "email": null,
+    "website": "http://dragonl.o.oo7.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "PADI5スターIDダイブリゾート。ホテル伊豆急内に28年の歴史あるショップ。神子元ガイドも実施。",
+    "lat": 34.68648,
+    "lng": 138.97122,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "115",
+    "name": "神子元ハンマーズ",
+    "nameEn": "Mikomoto Hammers",
+    "country": "日本",
+    "region": "南伊豆",
+    "city": "南伊豆町",
+    "address": "静岡県賀茂郡南伊豆町",
+    "phone": null,
+    "email": null,
+    "website": "https://www.mikomoto.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "ファンダイブ"
+    ],
+    "priceRange": "¥15,000〜",
+    "description": "2001年創立。神子元島専門のダイビングサービス。ハンマーヘッドシャークの群れに遭遇可能。経験50本以上必須。",
+    "lat": 34.64948,
+    "lng": 138.85666,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "116",
+    "name": "アモアナダイビングスクール",
+    "nameEn": "Amoana Diving School",
+    "country": "日本",
+    "region": "静岡",
+    "city": "沼津市",
+    "address": "静岡県沼津市岡宮954-35",
+    "phone": "055-919-4553",
+    "email": null,
+    "website": "https://amoana.jiyusha.net/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ファンダイブ",
+      "マンツーマン"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "PADI5スターダイブセンター。完全少人数制。沼津ICより約4分。JR沼津駅・三島駅より無料送迎あり。",
+    "lat": 35.1089,
+    "lng": 138.88,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "117",
+    "name": "ピースフル",
+    "nameEn": "Peaceful",
+    "country": "日本",
+    "region": "静岡",
+    "city": "富士市",
+    "address": "静岡県富士市横割3-1-1 三久マンション1F",
+    "phone": "0545-67-7342",
+    "email": null,
+    "website": "https://peaceful-ds.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "PADI5スターダイブセンター。西伊豆中心に活動。新富士・沼津・三島駅の無料送迎あり。女性インストラクター常駐。",
+    "lat": 35.15066,
+    "lng": 138.65421,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "118",
+    "name": "ブルーコーナー",
+    "nameEn": "Blue Corner",
+    "country": "日本",
+    "region": "静岡",
+    "city": "静岡市",
+    "address": "静岡県静岡市葵区清閑町13-12",
+    "phone": "054-253-3656",
+    "email": null,
+    "website": "https://bluecorner.co.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "PADI5スターダイブセンター。1988年創業。温水プール完備。年間300日以上のツアー・イベントを開催。",
+    "lat": 34.96358,
+    "lng": 138.37777,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "119",
+    "name": "ビーチタイム",
+    "nameEn": "Beach Time",
+    "country": "日本",
+    "region": "静岡",
+    "city": "静岡市",
+    "address": "静岡県静岡市葵区一番町6-1",
+    "phone": "054-255-4726",
+    "email": null,
+    "website": "http://www.beachtime.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "PADI5スターダイブセンター。ゴールドカード発行店。西伊豆・大瀬崎で講習実施。無料送迎あり。",
+    "lat": 34.97508,
+    "lng": 138.37464,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "120",
+    "name": "ダイブハウス オスパー大瀬崎",
+    "nameEn": "Dive House Osper Osezaki",
+    "country": "日本",
+    "region": "西伊豆",
+    "city": "沼津市",
+    "address": "静岡県沼津市西浦大瀬334",
+    "phone": null,
+    "email": null,
+    "website": "https://osper.co.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "PADIゴールドパームリゾート。大瀬崎で無制限ダイビングを提供。宿泊しながらのライセンス取得も可能。",
+    "lat": 35.02601,
+    "lng": 138.78617,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "121",
+    "name": "熱海マリンスポーツクラブ",
+    "nameEn": "Atami Marine Sports Club",
+    "country": "日本",
+    "region": "東伊豆",
+    "city": "熱海市",
+    "address": "静岡県熱海市東海岸町11-19-2F",
+    "phone": "090-3062-1770",
+    "email": "atami@atami-marine.com",
+    "website": "https://atami-marine.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "インストラクターコース",
+      "ファンダイブ",
+      "シュノーケリング"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "PADI5スターIDセンター。熱海駅より徒歩8分。沈船ポイントや洞窟ダイビングなど多彩なポイントを案内。",
+    "lat": 35.10031,
+    "lng": 139.0784,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "122",
+    "name": "マリンハウス レイアロハ東伊豆店",
+    "nameEn": "Marine House Lei Aloha Higashi-Izu",
+    "country": "日本",
+    "region": "東伊豆",
+    "city": "伊東市",
+    "address": "静岡県伊東市",
+    "phone": "055-981-7800",
+    "email": null,
+    "website": "https://www.marinhouse-leialoha.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "マリンハウス レイアロハの東伊豆クラブハウス。東伊豆の海を拠点に活動。",
+    "lat": 34.9656,
+    "lng": 139.10247,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "123",
+    "name": "ダイビングインストラクターセンター伊豆",
+    "nameEn": "Diving Instructor Center Izu",
+    "country": "日本",
+    "region": "東伊豆",
+    "city": "伊東市",
+    "address": "静岡県伊東市",
+    "phone": null,
+    "email": null,
+    "website": "https://divinginstructor.biz/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ダイブマスター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "PADI5スターIDダイブリゾート。富戸・八幡野・IOPエリアを拠点。最短2日でライセンス取得可能。",
+    "lat": 34.9656,
+    "lng": 139.10247,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "124",
+    "name": "ダイビングショップ宝島",
+    "nameEn": "Dive Shop Takarajima",
+    "country": "日本",
+    "region": "東伊豆",
+    "city": "伊東市",
+    "address": "静岡県伊東市八幡野1142-9",
+    "phone": "0120-720-365",
+    "email": null,
+    "website": "https://www.dstakarajima.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ",
+      "シュノーケリング"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "伊豆専門の老舗ダイビングスクール。開業20年以上。指導歴25年以上のベテランインストラクターが指導。",
+    "lat": 34.88387,
+    "lng": 139.111,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "125",
+    "name": "アイダイブ",
+    "nameEn": "iDive",
+    "country": "日本",
+    "region": "西伊豆",
+    "city": "松崎町",
+    "address": "静岡県賀茂郡松崎町道部145-1",
+    "phone": "0558-43-2050",
+    "email": null,
+    "website": "https://idive.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "西伊豆・雲見専門のダイビングガイドショップ。ガイド歴30年超。宿泊施設併設。稲梓駅より無料送迎あり。",
+    "lat": 34.7447,
+    "lng": 138.7826,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "126",
+    "name": "ダイビングサービス熱海",
+    "nameEn": "Diving Service Atami",
+    "country": "日本",
+    "region": "東伊豆",
+    "city": "熱海市",
+    "address": "静岡県熱海市和田浜南町9-24",
+    "phone": "0557-82-7285",
+    "email": null,
+    "website": "http://www.atami.biz/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "全長81mの大型沈船でのレックダイビングが可能。地元スタッフが6ポイントを案内。大型漁船でのボートダイビング。",
+    "lat": 35.08885,
+    "lng": 139.07784,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "127",
+    "name": "ダイビングショップ アバロ",
+    "nameEn": "Diving Shop Abaro",
+    "country": "日本",
+    "region": "静岡",
+    "city": "静岡市",
+    "address": "静岡県静岡市清水区上原2-5-8",
+    "phone": "054-689-7441",
+    "email": null,
+    "website": "https://diving-abaro.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "レスキュー",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "PADI認定ショップ。少人数制で20年間無事故の実績。コミコミ価格で追加料金なし。駐車場10台あり。",
+    "lat": 35.00805,
+    "lng": 138.45742,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "128",
+    "name": "宇佐美ダイビングセンター",
+    "nameEn": "Usami Diving Center",
+    "country": "日本",
+    "region": "東伊豆",
+    "city": "伊東市",
+    "address": "静岡県伊東市宇佐美",
+    "phone": null,
+    "email": null,
+    "website": "https://usami-diving.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "創業33年間事故0件。大人のための充実設備でリゾート気分を満喫。バリレストラン併設。ウミガメ遭遇率が高い。",
+    "lat": 35.00383,
+    "lng": 139.08139,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "129",
+    "name": "ダイビングサービス むらい",
+    "nameEn": "Diving Service Murai",
+    "country": "日本",
+    "region": "東伊豆",
+    "city": "伊東市",
+    "address": "静岡県伊東市",
+    "phone": null,
+    "email": null,
+    "website": "http://dsmurai.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "伊東を拠点にダイビングポイントを案内。優しく丁寧、親切をモットー。伊東駅より送迎あり。",
+    "lat": 34.9656,
+    "lng": 139.10247,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "130",
+    "name": "黄金崎ダイブセンター",
+    "nameEn": "Koganezaki Dive Center",
+    "country": "日本",
+    "region": "西伊豆",
+    "city": "西伊豆町",
+    "address": "静岡県賀茂郡西伊豆町",
+    "phone": "0558-56-1717",
+    "email": null,
+    "website": "https://arari.co.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "シュノーケリング"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "黄金崎ビーチと安良里ボートのポイントを運営。穏やかな海と多彩な生物が魅力。伊豆屈指の景勝地。",
+    "lat": 34.77161,
+    "lng": 138.7753,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "131",
+    "name": "安良里ダイビングセンター",
+    "nameEn": "Arari Diving Center",
+    "country": "日本",
+    "region": "西伊豆",
+    "city": "西伊豆町",
+    "address": "静岡県賀茂郡西伊豆町安良里",
+    "phone": "0558-56-0195",
+    "email": null,
+    "website": "https://www.arari-dc.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "西伊豆・安良里のボートダイビングと黄金崎公園ビーチ・坂本ビーチのダイビングサービスを提供。",
+    "lat": 34.82307,
+    "lng": 138.7769,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "132",
+    "name": "ダイビングショップ サンライズ",
+    "nameEn": "Sunrise Ose Marine Service",
+    "country": "日本",
+    "region": "西伊豆",
+    "city": "沼津市",
+    "address": "静岡県沼津市西浦大瀬993",
+    "phone": null,
+    "email": null,
+    "website": "https://www.sunrise-ose.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "大瀬崎の現地ダイビングサービス。宿泊施設併設でビーチ目の前。伊豆長岡駅より無料送迎。無料駐車場完備。",
+    "lat": 35.02519,
+    "lng": 138.82092,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "133",
+    "name": "伊豆ダイビングスクール",
+    "nameEn": "Izu Diving School",
+    "country": "日本",
+    "region": "東伊豆",
+    "city": "熱海市",
+    "address": "静岡県熱海市伊豆山226-52",
+    "phone": "0557-35-9851",
+    "email": "info@izudiving.jp",
+    "website": "https://izudiving.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "熱海・伊豆山のPADIダイビングスクール。PADI MSDTインストラクター常駐。東京オフィスあり。",
+    "lat": 35.11075,
+    "lng": 139.08451,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "134",
+    "name": "雲見ダイビングサービス",
+    "nameEn": "Kumomi Diving Service Hamayu",
+    "country": "日本",
+    "region": "西伊豆",
+    "city": "松崎町",
+    "address": "静岡県賀茂郡松崎町雲見654",
+    "phone": "0558-45-0701",
+    "email": null,
+    "website": "https://kumomi-hamayu.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "1971年創業の西伊豆・雲見の老舗ダイビングサービス。地形ダイビングが楽しめる雲見の海をガイド。",
+    "lat": 34.72724,
+    "lng": 138.74272,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "135",
+    "name": "川奈ダイビング",
+    "nameEn": "Kawana Diving",
+    "country": "日本",
+    "region": "東伊豆",
+    "city": "伊東市",
+    "address": "静岡県伊東市川奈31-18",
+    "phone": "0557-45-6815",
+    "email": "kawanadv@i-younet.ne.jp",
+    "website": "https://kawanadv.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "東伊豆・川奈で50年の歴史を持つ現地型ダイビングショップ。初心者に優しいサービスが特徴。無料駐車場完備。",
+    "lat": 34.95295,
+    "lng": 139.13935,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "136",
+    "name": "オーシャンドリーム",
+    "nameEn": "Ocean Dream",
+    "country": "日本",
+    "region": "千葉",
+    "city": "千葉市",
+    "address": "千葉県千葉市中央区院内1-17-3 斉藤ビル1階",
+    "phone": "043-227-0082",
+    "email": "chiba@ocean-dream.co.jp",
+    "website": "https://www.ocean-dream.co.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "千葉駅徒歩8分のPADI 5スターIDセンター。少人数制で女性インストラクター在籍。完全予約制。房総・伊豆方面のツアー開催。",
+    "lat": 35.61202,
+    "lng": 140.12321,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "137",
+    "name": "SUNNY RULE",
+    "nameEn": "Sunny Rule",
+    "country": "日本",
+    "region": "千葉",
+    "city": "千葉市",
+    "address": "千葉県千葉市中央区中央港1-20-1 ケーズハーバー1F",
+    "phone": "043-246-9981",
+    "email": "info@sunnyrule.com",
+    "website": "https://sunnyrule.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "千葉みなと駅徒歩5分、ケーズハーバー内のPADI認定店。大型水槽でのアクアリウムダイビングプログラムあり。コースディレクター在籍。",
+    "lat": 35.60437,
+    "lng": 140.09986,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "138",
+    "name": "mic21千葉駅前店",
+    "nameEn": "mic21 Chiba Ekimae",
+    "country": "日本",
+    "region": "千葉",
+    "city": "千葉市",
+    "address": "千葉県千葉市中央区弁天1-16-5-1F",
+    "phone": "043-306-8021",
+    "email": null,
+    "website": "https://www.mic21.com/shop/show/shop/5.html",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "JR千葉駅徒歩2分。日本最大級のダイビングショップmic21の千葉店。PADI 5スターダイブセンター。器材販売・ライセンス取得・ツアー開催。",
+    "lat": 35.61395,
+    "lng": 140.11406,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "139",
+    "name": "カレントブルー",
+    "nameEn": "Current Blue",
+    "country": "日本",
+    "region": "千葉",
+    "city": "白井市",
+    "address": "千葉県白井市冨士22-2",
+    "phone": "070-9199-4140",
+    "email": null,
+    "website": "https://www.current-blue.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "PADI 5スターIDセンター。自社屋内プール完備で初心者も安心。伊豆・南房総方面のツアー開催。キャンピングカーツアーも。",
+    "lat": 35.77108,
+    "lng": 140.02938,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "140",
+    "name": "シーマジック",
+    "nameEn": "SeaMagic",
+    "country": "日本",
+    "region": "千葉",
+    "city": "浦安市",
+    "address": "千葉県浦安市北栄1-1-36-101",
+    "phone": "047-351-4350",
+    "email": null,
+    "website": "https://www.seamagic.co.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "浦安駅徒歩5分のPADI 5スターIDセンター。PADI最優秀賞受賞。コースディレクター常駐。日帰り・宿泊ツアーをほぼ毎日開催。",
+    "lat": 35.66456,
+    "lng": 139.89633,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "141",
+    "name": "トゥルーノース",
+    "nameEn": "TRUE NORTH",
+    "country": "日本",
+    "region": "千葉",
+    "city": "浦安市",
+    "address": "千葉県浦安市猫実5-4-35 BNTハウス1F",
+    "phone": "047-304-8915",
+    "email": null,
+    "website": "https://truenorth.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "フリーダイビング",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "浦安駅徒歩6分。PADI最優秀賞受賞の総合ダイビングショップ。スキューバ・スキン・フリーダイビング対応。1999年創立。浦安・船橋・沖縄に展開。",
+    "lat": 35.66392,
+    "lng": 139.88986,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "142",
+    "name": "スーパースクーバ フィズ",
+    "nameEn": "Super Scuba FIZ",
+    "country": "日本",
+    "region": "千葉",
+    "city": "松戸市",
+    "address": "千葉県松戸市松戸1156",
+    "phone": "047-369-3030",
+    "email": null,
+    "website": "https://fiz.co.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "松戸駅徒歩3分のPADI 5スターダイブセンター。ベテランインストラクター運営。南房総・伊豆方面のツアー開催。",
+    "lat": 35.78489,
+    "lng": 139.90299,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "143",
+    "name": "エムズダイビングアドベンチャー西船橋",
+    "nameEn": "M's Diving Adventure Nishi-Funabashi",
+    "country": "日本",
+    "region": "千葉",
+    "city": "船橋市",
+    "address": "千葉県船橋市海神6-16-6 シャルム西船1F",
+    "phone": "047-401-8188",
+    "email": null,
+    "website": "https://msdiving.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "2024年4月オープン。東京で30年の実績を持つエムズダイビングの2号店。PADI 5スターIDセンター。初心者も安心の丁寧なサポート。",
+    "lat": 35.70677,
+    "lng": 139.96904,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "144",
+    "name": "マレカスス 27",
+    "nameEn": "mare casus 27",
+    "country": "日本",
+    "region": "千葉",
+    "city": "船橋市",
+    "address": "千葉県船橋市緑台2-6-1 1F4号",
+    "phone": "047-402-2905",
+    "email": null,
+    "website": "https://mare-casus.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "ファンダイブ",
+      "マンツーマン"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "少人数制の初心者向けダイビングスクール。プライベートスクールも対応。勝浦の海をホームに活動。整骨院院長が兼業で運営。",
+    "lat": 35.72853,
+    "lng": 140.01602,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "145",
+    "name": "東京国際潜水倶楽部",
+    "nameEn": "DS Tokyo Diving",
+    "country": "日本",
+    "region": "千葉",
+    "city": "館山市",
+    "address": "千葉県館山市大神宮636-3",
+    "phone": "0470-29-5961",
+    "email": null,
+    "website": "https://www.dstokyodiving.com/",
+    "languages": [
+      "日本語",
+      "中国語",
+      "英語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "館山のPADI 5スターダイブリゾート。日中英3カ国語対応。宿泊施設「玩海hotel」併設。",
+    "lat": 34.92745,
+    "lng": 139.8363,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "146",
+    "name": "オーシャン館山",
+    "nameEn": "Ocean Tateyama",
+    "country": "日本",
+    "region": "千葉",
+    "city": "館山市",
+    "address": "千葉県館山市浜田101-4",
+    "phone": "080-8422-6349",
+    "email": null,
+    "website": "https://ocean-tateyama.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "ファンダイブ",
+      "シュノーケリング"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "PADI 5スターダイブリゾート。波左間・伊戸・西川名など南房総のポイントをガイド。宿泊クラブハウス併設。シャークダイブも人気。",
+    "lat": 34.97385,
+    "lng": 139.80729,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "147",
+    "name": "西川名ダイビングサービス",
+    "nameEn": "Nishikawana Diving Service",
+    "country": "日本",
+    "region": "千葉",
+    "city": "館山市",
+    "address": "千葉県館山市西川名849-4",
+    "phone": "090-5153-3521",
+    "email": "info@nishikawana-diving.com",
+    "website": "https://www.nishikawana-diving.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "PADI 5スターダイブリゾート。房総半島南端の黒潮の海。ボートポイントまで3分。魚影の濃さが魅力。館山駅送迎あり。",
+    "lat": 34.96258,
+    "lng": 139.75944,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "148",
+    "name": "伊戸ダイビングサービス BOMMIE",
+    "nameEn": "Ito Diving Service BOMMIE",
+    "country": "日本",
+    "region": "千葉",
+    "city": "館山市",
+    "address": "千葉県館山市伊戸962",
+    "phone": "0470-29-1470",
+    "email": "diving_bommie@yahoo.co.jp",
+    "website": "https://bommie.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "日本屈指のシャークダイビングスポット・伊戸の現地サービス。ドチザメの群れが見られるシャークスクランブルが人気。館山駅送迎あり。",
+    "lat": 34.95617,
+    "lng": 139.77068,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "149",
+    "name": "勝浦ダイビングサービス",
+    "nameEn": "Katsuura Diving Service",
+    "country": "日本",
+    "region": "千葉",
+    "city": "勝浦市",
+    "address": "千葉県勝浦市鵜原1017-11",
+    "phone": null,
+    "email": null,
+    "website": "https://www.katsuura-ds.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "外房・勝浦の鵜原に位置する現地ダイビングサービス。2024年新施設リニューアル。新ボートポイント「鵜原島」あり。JR鵜原駅集合。",
+    "lat": 35.13515,
+    "lng": 140.27977,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "150",
+    "name": "なめがわダイビングサービス",
+    "nameEn": "Namegawa Diving Service",
+    "country": "日本",
+    "region": "千葉",
+    "city": "勝浦市",
+    "address": "千葉県勝浦市浜行川166-2",
+    "phone": "0470-76-3480",
+    "email": null,
+    "website": "https://www.namegawa-ds.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "黒潮と親潮が交わる勝浦なめがわの現地サービス。新勝浦市漁業協同組合が運営。四季折々の水中景観が楽しめる。",
+    "lat": 35.12212,
+    "lng": 140.23588,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "151",
+    "name": "スクープ",
+    "nameEn": "Dive SCOOP",
+    "country": "日本",
+    "region": "千葉",
+    "city": "流山市",
+    "address": "千葉県流山市南流山2-8-7 依田マンション1F",
+    "phone": "04-7138-6762",
+    "email": null,
+    "website": "https://dive-scoop.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "南流山駅徒歩3分のPADIダイブセンター。コースディレクター在籍。日帰りツアーやイベント多数開催。",
+    "lat": 35.83573,
+    "lng": 139.90444,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "152",
+    "name": "ティモンオーシャンファンタジー",
+    "nameEn": "Timon Ocean Fantasy",
+    "country": "日本",
+    "region": "千葉",
+    "city": "鎌ヶ谷市",
+    "address": "千葉県鎌ケ谷市新鎌ケ谷3-7-4",
+    "phone": "047-499-5315",
+    "email": null,
+    "website": "http://www.timon-of.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "新鎌ヶ谷駅徒歩4分のPADIダイブセンター。2007年オープン。お一人様からツアー開催。伊豆・房総方面の日帰りツアー。無料駐車場完備。",
+    "lat": 35.77901,
+    "lng": 140.00306,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "153",
+    "name": "Dive Award 津田沼駅前本店",
+    "nameEn": "Dive Award Tsudanuma",
+    "country": "日本",
+    "region": "千葉",
+    "city": "習志野市",
+    "address": "千葉県習志野市津田沼1-2-22 小倉ビル4F",
+    "phone": "047-476-0026",
+    "email": "tsudanuma@dive-award.com",
+    "website": "https://www.dive-award.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "JR津田沼駅北口徒歩2分のPADI認定スキューバダイビング総合プロショップ。年間100本以上のツアー開催。20年以上の経験を持つスタッフ在籍。",
+    "lat": 35.69077,
+    "lng": 140.02184,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "154",
+    "name": "海のをかし屋さん",
+    "nameEn": "Umi no Okashiyasan",
+    "country": "日本",
+    "region": "千葉",
+    "city": "柏市",
+    "address": "千葉県柏市明原2-6-5 クレシェンド1階",
+    "phone": "04-7186-6760",
+    "email": null,
+    "website": "https://www.uminookashiyasan.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "柏駅西口徒歩7分のダイビングスクール＆ガイドショップ。「海中世界はいとをかし」がコンセプト。一人一人に寄り添った丁寧なスクールとガイド。",
+    "lat": 35.86418,
+    "lng": 139.96738,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "155",
+    "name": "アロハウインズ ダイブベース",
+    "nameEn": "Alohawinz Dive Base",
+    "country": "日本",
+    "region": "千葉",
+    "city": "四街道市",
+    "address": "千葉県四街道市もねの里2-38-43",
+    "phone": "043-424-2780",
+    "email": "alohawinz87@gmail.com",
+    "website": "https://www.alohawinz.com/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "国内外のダイビングツアーを企画・ガイド。器材メンテナンス・保管サービスあり。併設の87coffeeでくつろげるアットホームなショップ。",
+    "lat": 35.6865,
+    "lng": 140.19007,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "156",
+    "name": "房総クラブハウス",
+    "nameEn": "Boso Clubhouse",
+    "country": "日本",
+    "region": "千葉",
+    "city": "富津市",
+    "address": "千葉県富津市金谷4283-7",
+    "phone": "0439-69-2576",
+    "email": "bousou@mic21.com",
+    "website": "https://mic21.com/clubhouse/bousou.php",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "mic21運営の完全予約制海遊び施設。目の前が海でダイビング講習・ツアー専用。更衣室・シャワー完備。一棟貸しプランあり。",
+    "lat": 35.157,
+    "lng": 139.81878,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "157",
+    "name": "ダイビングスクール マレア沖縄 那覇店",
+    "nameEn": "Marea Okinawa Naha",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "那覇市",
+    "address": "沖縄県那覇市辻1-9-23",
+    "phone": "098-942-2230",
+    "email": "",
+    "website": "https://marea-oki.jp",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "マレアグループの沖縄那覇店。PADIキャリア・ディベロップメント・センター認定。ライセンス取得からファンダイブまで対応。",
+    "lat": 26.21545,
+    "lng": 127.66989,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "158",
+    "name": "パラダイス倶楽部",
+    "nameEn": "Paradise Club",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "那覇市",
+    "address": "沖縄県那覇市泊3丁目14-1",
+    "phone": "098-862-6661",
+    "email": "",
+    "website": "https://paradise-club.net",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "那覇市泊のダイビングショップ。慶良間諸島を中心にファンダイブ・体験ダイビング・ライセンス講習を開催。",
+    "lat": 26.2265,
+    "lng": 127.68358,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "159",
+    "name": "ダイビングチーム クール",
+    "nameEn": "Diving Team Cool",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "那覇市",
+    "address": "沖縄県那覇市辻2-9-23 グランピア波の上1F",
+    "phone": "098-860-1123",
+    "email": "",
+    "website": "https://d-cool.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "那覇市辻のダイビングショップ。少人数制で慶良間・チービシなどのポイントへ案内。",
+    "lat": 26.21889,
+    "lng": 127.67191,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "160",
+    "name": "ダイビングサプライヤー SMILE",
+    "nameEn": "Diving Supplier SMILE",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "那覇市",
+    "address": "沖縄県那覇市辻2-24-8",
+    "phone": "098-917-2225",
+    "email": "",
+    "website": "https://ds-smile.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "那覇市辻のダイビングショップ。慶良間諸島でのファンダイビング・体験ダイビング・ライセンス講習を提供。",
+    "lat": 26.21954,
+    "lng": 127.67076,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "161",
+    "name": "クラフト ダイブ",
+    "nameEn": "Craft Dive",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "那覇市",
+    "address": "沖縄県那覇市国場221-2",
+    "phone": "098-996-3830",
+    "email": "",
+    "website": "https://craft-dive.okinawa",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "那覇市国場のダイビングショップ。少人数制で沖縄本島・慶良間のダイビングを案内。",
+    "lat": 26.19559,
+    "lng": 127.70066,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "162",
+    "name": "おきなわトロピコ",
+    "nameEn": "Okinawa Tropico",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "那覇市",
+    "address": "沖縄県那覇市曙3-8-17-1F",
+    "phone": "098-867-5032",
+    "email": "",
+    "website": "https://okinawa-tropico.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "那覇市曙のダイビングショップ。沖縄本島・慶良間のファンダイブ・体験ダイビングを提供。",
+    "lat": 26.24206,
+    "lng": 127.6863,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "163",
+    "name": "マリーンプロダクト",
+    "nameEn": "Marine Product",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "那覇市",
+    "address": "沖縄県那覇市安謝2-2-8 ルナシティー1F",
+    "phone": "098-860-3737",
+    "email": "",
+    "website": "https://marine-p.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "那覇市安謝のダイビングショップ。慶良間諸島専門のファンダイビング・体験ダイビング・ライセンス取得を提供。",
+    "lat": 26.23468,
+    "lng": 127.69112,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "164",
+    "name": "シーマックスダイビングクラブ沖縄",
+    "nameEn": "Seamax Diving Club Okinawa",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "那覇市",
+    "address": "沖縄県那覇市天久2-14-20",
+    "phone": "098-869-6448",
+    "email": "",
+    "website": "https://seamax.co.jp",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "那覇市天久のダイビングショップ。自社ボートで慶良間諸島へ案内。",
+    "lat": 26.23355,
+    "lng": 127.68798,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "165",
+    "name": "mic21沖縄那覇店",
+    "nameEn": "mic21 Okinawa Naha",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "那覇市",
+    "address": "沖縄県那覇市前島2-21-13",
+    "phone": "098-951-2821",
+    "email": "",
+    "website": "https://mic21.com/shop/show/shop/9.html",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "日本最大級ダイビング器材専門店mic21の沖縄那覇店。器材販売・修理に加えダイビングツアーやライセンス講習も実施。",
+    "lat": 26.22441,
+    "lng": 127.685,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "166",
+    "name": "沖縄 Okinawa Diving スイミー",
+    "nameEn": "Okinawa Diving Suimy",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "那覇市",
+    "address": "沖縄県那覇市若狭3丁目5-7 1F",
+    "phone": "098-943-3575",
+    "email": "",
+    "website": "https://suimy.jp",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "那覇市若狭のダイビングショップ。少人数制で慶良間・沖縄本島のポイントへ案内。",
+    "lat": 26.22227,
+    "lng": 127.67749,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "167",
+    "name": "沖縄リベルテダイビングサービス那覇店",
+    "nameEn": "Okinawa Liberte Naha",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "那覇市",
+    "address": "沖縄県那覇市若狭2-9-25-101",
+    "phone": "098-943-8033",
+    "email": "",
+    "website": "https://liberte.jp/naha/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "リベルテダイビングサービスの那覇店。慶良間諸島をメインにファンダイビング・ライセンス取得を提供。",
+    "lat": 26.22079,
+    "lng": 127.67566,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "168",
+    "name": "パパラギダイビングスクール那覇",
+    "nameEn": "Papalagi Naha",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "那覇市",
+    "address": "沖縄県那覇市西1-12-18-102",
+    "phone": "098-943-9113",
+    "email": "",
+    "website": "https://naha-papalagi.jp",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "パパラギダイビングスクールの那覇店。慶良間諸島でのダイビングライセンス取得・ファンダイブを提供。",
+    "lat": 26.21448,
+    "lng": 127.67211,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "169",
+    "name": "DIVEIN沖縄",
+    "nameEn": "DIVEIN Okinawa",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "那覇市",
+    "address": "沖縄県那覇市壺屋2-18-1 壺屋店舗101",
+    "phone": "098-955-4180",
+    "email": "",
+    "website": "https://diveinok.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "那覇市壺屋のダイビングショップ。慶良間諸島を中心にファンダイブ・体験ダイビングを提供。",
+    "lat": 26.21272,
+    "lng": 127.69386,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "170",
+    "name": "BLUE ZONE",
+    "nameEn": "Blue Zone",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "那覇市",
+    "address": "沖縄県那覇市安里1-8-24 ショーリセMII 1F",
+    "phone": "098-943-9555",
+    "email": "",
+    "website": "https://bluezone.jp",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "那覇市安里のダイビングショップ。慶良間諸島・沖縄本島のダイビングポイントへ案内。",
+    "lat": 26.21378,
+    "lng": 127.68779,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "171",
+    "name": "ディーズパルス沖縄",
+    "nameEn": "Ds Pulse Okinawa",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "那覇市",
+    "address": "沖縄県那覇市曙2-26-6 タカダ曙マンション1F",
+    "phone": "098-860-7775",
+    "email": "",
+    "website": "https://d-spulse.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "那覇市曙のダイビングショップ。自社大型クルーザーで慶良間諸島へ毎日出航。",
+    "lat": 26.23925,
+    "lng": 127.6808,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "172",
+    "name": "沖縄ダイビングサービス潜水屋",
+    "nameEn": "Okinawa Diving Service Sensuiya",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "那覇市",
+    "address": "沖縄県那覇市曙3-11-19 仲本ビル1F",
+    "phone": "098-869-0550",
+    "email": "",
+    "website": "https://okinawa-d-s.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "那覇市曙のダイビングサービス。沖縄本島・慶良間のダイビングポイントをベテランガイドが案内。",
+    "lat": 26.24163,
+    "lng": 127.68353,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "173",
+    "name": "Bonz. Okinawa Diving Center",
+    "nameEn": "Bonz. Okinawa Diving Center",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "那覇市",
+    "address": "沖縄県那覇市曙1-18-31-1F",
+    "phone": "098-860-4646",
+    "email": "",
+    "website": "https://bonz-okinawa.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "那覇市曙のダイビングセンター。慶良間諸島を中心にファンダイブ・体験ダイビング・ライセンス講習を提供。",
+    "lat": 26.23785,
+    "lng": 127.68234,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "174",
+    "name": "マリンスター",
+    "nameEn": "Marine Star",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "那覇市",
+    "address": "沖縄県那覇市曙2-26-15 1F",
+    "phone": "098-868-1455",
+    "email": "",
+    "website": "https://marinestar-okinawa.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "那覇市曙のダイビングショップ。慶良間諸島でのファンダイビング・体験ダイビングを少人数制で案内。",
+    "lat": 26.24012,
+    "lng": 127.68064,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "175",
+    "name": "マリンサービスふぁみーゆ",
+    "nameEn": "Marine Service Famille",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "那覇市",
+    "address": "沖縄県那覇市安謝2-29-28",
+    "phone": "098-988-2200",
+    "email": "",
+    "website": "https://msfamille.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "那覇市安謝のダイビングショップ。アットホームな雰囲気で慶良間諸島のダイビングを案内。",
+    "lat": 26.23667,
+    "lng": 127.69119,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "176",
+    "name": "サザンアイランダーダイブツアーズ",
+    "nameEn": "Southern Islander Dive Tours",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "那覇市",
+    "address": "沖縄県那覇市樋川1-8-6 TTKビル2F",
+    "phone": "098-996-4583",
+    "email": "",
+    "website": "https://s-islander.jp",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "那覇市樋川のダイビングショップ。慶良間諸島の体験ダイビング・ファンダイブ・ライセンス取得を案内。",
+    "lat": 26.20998,
+    "lng": 127.68875,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "177",
+    "name": "ホヌホヌダイバーズ",
+    "nameEn": "Honu Honu Divers",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "那覇市",
+    "address": "沖縄県那覇市若狭3-4-15",
+    "phone": "098-917-0025",
+    "email": "",
+    "website": "https://hhdivers.com/jp-honuhonu/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "那覇市若狭のダイビングショップ。慶良間諸島を中心に案内。",
+    "lat": 26.22169,
+    "lng": 127.67763,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "178",
+    "name": "イスナ",
+    "nameEn": "Isuna",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "那覇市",
+    "address": "沖縄県那覇市若狭3-24-2",
+    "phone": "098-868-1373",
+    "email": "",
+    "website": "https://isuna-service.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "那覇市若狭のダイビングサービス。沖縄本島・慶良間諸島のダイビングポイントへ案内。",
+    "lat": 26.22433,
+    "lng": 127.6799,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "179",
+    "name": "那覇シーマリン",
+    "nameEn": "Naha Sea Marine",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "那覇市",
+    "address": "沖縄県那覇市松山1-26-17 ライジングサン松山1F",
+    "phone": "098-869-1777",
+    "email": "",
+    "website": "https://www.seamarine.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "那覇市松山のケラマ諸島ダイビング専門店。自社ボートで慶良間へ毎日出航。",
+    "lat": 26.22143,
+    "lng": 127.68282,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "180",
+    "name": "リーファーズ",
+    "nameEn": "Reeffers",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "那覇市",
+    "address": "沖縄県那覇市西1-21-6",
+    "phone": "098-943-9632",
+    "email": "",
+    "website": "https://reeffers.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "那覇市西のダイビングショップ。慶良間諸島を中心にファンダイブ・体験ダイビング・ライセンス講習を提供。",
+    "lat": 26.21207,
+    "lng": 127.67096,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "181",
+    "name": "海風だいばーず",
+    "nameEn": "Kaifu Divers",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "那覇市",
+    "address": "沖縄県那覇市具志3-6-3",
+    "phone": "098-857-3450",
+    "email": "",
+    "website": "https://kaifu-divers.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "那覇市具志のダイビングショップ。少人数制で慶良間諸島を中心にダイビングを案内。",
+    "lat": 26.18002,
+    "lng": 127.65828,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "182",
+    "name": "DeepSea Diving Center",
+    "nameEn": "DeepSea Diving Center",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "那覇市",
+    "address": "沖縄県那覇市小禄529 101号室",
+    "phone": "098-996-4880",
+    "email": "",
+    "website": "https://deepsea-okinawa.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "那覇市小禄のダイビングセンター。慶良間諸島・沖縄本島のダイビングを提供。",
+    "lat": 26.19428,
+    "lng": 127.67454,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "183",
+    "name": "アークダイブ",
+    "nameEn": "Ark Dive",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "宜野湾市",
+    "address": "沖縄県宜野湾市真志喜3-31-8",
+    "phone": "098-898-1152",
+    "email": "",
+    "website": "https://arkdive.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "宜野湾市真志喜のダイビングショップ。沖縄本島・慶良間のポイントを少人数制で案内。",
+    "lat": 26.27433,
+    "lng": 127.73216,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "184",
+    "name": "オーシャンゲート",
+    "nameEn": "Ocean Gate",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "宜野湾市",
+    "address": "沖縄県宜野湾市伊佐1-10-2",
+    "phone": "098-897-8677",
+    "email": "",
+    "website": "http://ocean-gate.net",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "宜野湾市伊佐のダイビングショップ。沖縄本島・慶良間諸島のダイビングを案内。",
+    "lat": 26.28488,
+    "lng": 127.75495,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "185",
+    "name": "Blue Vista Dive",
+    "nameEn": "Blue Vista Dive",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "浦添市",
+    "address": "沖縄県浦添市内間4-11-22",
+    "phone": "098-988-9846",
+    "email": "",
+    "website": "https://bluevistadive.com/jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "浦添市内間のダイビングショップ。英語対応可能。沖縄本島・慶良間のダイビングを提供。",
+    "lat": 26.23989,
+    "lng": 127.70224,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "186",
+    "name": "セリシャス クラブ",
+    "nameEn": "Celsius Club",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "中頭郡北谷町",
+    "address": "沖縄県中頭郡北谷町宮城1番地 104",
+    "phone": "098-926-0107",
+    "email": "",
+    "website": "https://celsiusclub.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "北谷町宮城のダイビングショップ。沖縄本島・慶良間のダイビングポイントを案内。",
+    "lat": 26.32812,
+    "lng": 127.74592,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "187",
+    "name": "ダイビングサービス「琉球てぃーだ」",
+    "nameEn": "Ryukyu Teeda",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "中頭郡北谷町",
+    "address": "沖縄県中頭郡北谷町上勢頭556-2",
+    "phone": "098-926-3870",
+    "email": "",
+    "website": "https://ryukyu-dive.jp",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "北谷町上勢頭のダイビングショップ。沖縄本島西海岸・慶良間のダイビングを案内。",
+    "lat": 26.32929,
+    "lng": 127.77608,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "188",
+    "name": "JAMマリンクラブ",
+    "nameEn": "JAM Marine Club",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "中頭郡嘉手納町",
+    "address": "沖縄県中頭郡嘉手納町水釜6-22-13",
+    "phone": "098-956-4588",
+    "email": "",
+    "website": "https://jammarineclub.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "嘉手納町水釜のダイビングショップ。自社ボートで沖縄本島・慶良間のダイビングを案内。",
+    "lat": 26.35587,
+    "lng": 127.7408,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "189",
+    "name": "なんくるDiver's 沖縄",
+    "nameEn": "Nankuru Divers Okinawa",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "中頭郡嘉手納町",
+    "address": "沖縄県中頭郡嘉手納町水釜6-17-17 SEA HOUSE 1F",
+    "phone": "098-957-2700",
+    "email": "",
+    "website": "https://nankurudivers.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "嘉手納町水釜のダイビングショップ。沖縄本島・慶良間でのファンダイブ・体験ダイビングを提供。",
+    "lat": 26.35712,
+    "lng": 127.7409,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "190",
+    "name": "Diver's 7",
+    "nameEn": "Divers 7",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "国頭郡恩納村",
+    "address": "沖縄県国頭郡恩納村名嘉真2288-247 ヴィラパティオ1F",
+    "phone": "098-966-7040",
+    "email": "",
+    "website": "https://divers7okinawa.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "恩納村名嘉真のダイビングショップ。青の洞窟をはじめ恩納村エリアのダイビングを案内。",
+    "lat": 26.51064,
+    "lng": 127.88952,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "191",
+    "name": "ダイブ コーヴィー",
+    "nameEn": "Dive Kobe",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "国頭郡恩納村",
+    "address": "沖縄県国頭郡恩納村仲泊102",
+    "phone": "098-966-8884",
+    "email": "",
+    "website": "https://divekobe.jp",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "恩納村仲泊のダイビングショップ。恩納村エリアのダイビングポイントを案内。",
+    "lat": 26.43582,
+    "lng": 127.79948,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "192",
+    "name": "ANA インターコンチネンタル 万座ビーチリゾート",
+    "nameEn": "ANA InterContinental Manza Beach Resort",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "国頭郡恩納村",
+    "address": "沖縄県国頭郡恩納村字瀬良垣2260",
+    "phone": "098-966-1211",
+    "email": "",
+    "website": "https://www.anaintercontinental-manza.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "恩納村の大型リゾートホテル。体験ダイビング・ファンダイビング・ライセンス取得など多彩なマリンアクティビティを提供。",
+    "lat": 26.50898,
+    "lng": 127.85885,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "193",
+    "name": "黒潮潜水",
+    "nameEn": "Kuroshio Sensui",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "国頭郡恩納村",
+    "address": "沖縄県国頭郡恩納村谷茶158-2",
+    "phone": "098-966-8910",
+    "email": "",
+    "website": "https://heichaodive.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "恩納村谷茶のダイビングショップ。中国語対応可能。",
+    "lat": 26.46793,
+    "lng": 127.82694,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "194",
+    "name": "The Blues 沖繩潛水活動中心",
+    "nameEn": "The Blues Okinawa",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "国頭郡恩納村",
+    "address": "沖縄県国頭郡恩納村真栄田932-2",
+    "phone": "098-989-1678",
+    "email": "",
+    "website": "https://theblues.co.jp",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "恩納村真栄田のダイビングショップ。青の洞窟近くに位置し体験ダイビング・ファンダイブを提供。",
+    "lat": 26.43833,
+    "lng": 127.76635,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "195",
+    "name": "プロ スキューバ チーム シールズ",
+    "nameEn": "Pro Scuba Team Seals",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "国頭郡恩納村",
+    "address": "沖縄県国頭郡恩納村恩納6331-3",
+    "phone": "098-966-8358",
+    "email": "",
+    "website": "https://seals-dc.net",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "恩納村のダイビングショップ。恩納村・慶良間のダイビングポイントをプロガイドが案内。",
+    "lat": 26.48866,
+    "lng": 127.84569,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "196",
+    "name": "沖縄ダイビングサービス Lagoon",
+    "nameEn": "Okinawa Diving Service Lagoon",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "国頭郡恩納村",
+    "address": "沖縄県国頭郡恩納村恩納339",
+    "phone": "098-966-0616",
+    "email": "",
+    "website": "https://lagoon-diving.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "恩納村のダイビングショップ。サンゴの海を中心にファンダイブ・体験ダイビングを提供。",
+    "lat": 26.50023,
+    "lng": 127.85919,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "197",
+    "name": "FLARE DIVE",
+    "nameEn": "Flare Dive",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "国頭郡恩納村",
+    "address": "沖縄県国頭郡恩納村恩納4933-1",
+    "phone": "098-966-0700",
+    "email": "",
+    "website": "https://flaredive.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "恩納村のダイビングショップ。恩納村・沖縄本島のダイビングポイントを少人数制で案内。",
+    "lat": 26.49452,
+    "lng": 127.84991,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "198",
+    "name": "ブルーリーフ",
+    "nameEn": "Blue Reef",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "国頭郡恩納村",
+    "address": "沖縄県国頭郡恩納村前兼久77 コーラルヴィラ1F",
+    "phone": "098-965-5680",
+    "email": "",
+    "website": "https://blueleaf.jp",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "恩納村前兼久のダイビングショップ。恩納村エリアのダイビングポイントを案内。",
+    "lat": 26.44495,
+    "lng": 127.79829,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "199",
+    "name": "沖縄ダイビングセンター",
+    "nameEn": "Okinawa Diving Center",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "国頭郡恩納村",
+    "address": "沖縄県国頭郡恩納村前兼久29-1",
+    "phone": "098-965-6000",
+    "email": "",
+    "website": "https://okinawadc.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "恩納村前兼久のダイビングセンター。恩納村・慶良間のダイビングを自社ボートで案内。",
+    "lat": 26.44911,
+    "lng": 127.80393,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "200",
+    "name": "トゥルーノース沖縄",
+    "nameEn": "True North Okinawa",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "国頭郡恩納村",
+    "address": "沖縄県国頭郡恩納村山田501-3",
+    "phone": "098-966-8270",
+    "email": "",
+    "website": "https://okinawa.truenorth.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "恩納村のフリーダイビング・スキンダイビング専門店。日本初のPADIフリーダイビングセンター登録店。",
+    "lat": 26.44099,
+    "lng": 127.77283,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "201",
+    "name": "沖縄リベルテダイビングサービスもとぶ店",
+    "nameEn": "Okinawa Liberte Motobu",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "国頭郡本部町",
+    "address": "沖縄県国頭郡本部町瀬底4762",
+    "phone": "0980-47-5787",
+    "email": "",
+    "website": "https://liberte.jp/hokubu/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "リベルテダイビングサービスの本部店。瀬底島を拠点に水納島・瀬底島周辺のダイビングを案内。",
+    "lat": 26.64185,
+    "lng": 127.86498,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "202",
+    "name": "マリンクラブベリー",
+    "nameEn": "Marine Club Berry",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "名護市",
+    "address": "沖縄県名護市字喜瀬115-2 喜瀬ビーチパレスホテル1F",
+    "phone": "0980-54-3737",
+    "email": "",
+    "website": "https://berry7.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "名護市喜瀬のマリンクラブ。シーサーグループ運営。ダイビング・シュノーケルなど多彩なマリンアクティビティを提供。",
+    "lat": 26.53626,
+    "lng": 127.94516,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "203",
+    "name": "マリンカウンター エックストリップ",
+    "nameEn": "Marine Counter X-Trip",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "名護市",
+    "address": "沖縄県名護市山入端247-1",
+    "phone": "0980-52-8700",
+    "email": "",
+    "website": "https://x-trip.jp",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "名護市のマリンショップ。沖縄本島北部のダイビング・マリンアクティビティを提供。",
+    "lat": 26.60354,
+    "lng": 127.93616,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "204",
+    "name": "マリンハウス シーサー阿嘉島店",
+    "nameEn": "Marine House Seasir Aka",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "島尻郡座間味村",
+    "address": "沖縄県島尻郡座間味村阿嘉162",
+    "phone": "098-987-3811",
+    "email": "",
+    "website": "https://seasir.com/aka/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "シーサーグループの阿嘉島店。慶良間諸島の透明度抜群の海でファンダイブ・体験ダイビングを提供。",
+    "lat": 26.19019,
+    "lng": 127.2786,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "205",
+    "name": "JOY JOY",
+    "nameEn": "Joy Joy",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "島尻郡座間味村",
+    "address": "沖縄県島尻郡座間味村字座間味西原434-2",
+    "phone": "098-987-2852",
+    "email": "",
+    "website": "https://keramajoyjoy.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "座間味島のダイビングショップ。慶良間の美しい海でファンダイビング・体験ダイビングを案内。",
+    "lat": 26.22933,
+    "lng": 127.30247,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "206",
+    "name": "ダイブイン浜",
+    "nameEn": "Dive Inn Hama",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "島尻郡座間味村",
+    "address": "沖縄県島尻郡座間味村字座間味97",
+    "phone": "098-987-2973",
+    "email": "",
+    "website": "https://diveinnhama.jp",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "座間味島のダイビングショップ。慶良間諸島の海をベテランガイドが案内。",
+    "lat": 26.22783,
+    "lng": 127.30233,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "207",
+    "name": "Water Kids",
+    "nameEn": "Water Kids",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "島尻郡渡嘉敷村",
+    "address": "沖縄県島尻郡渡嘉敷村字阿波連178",
+    "phone": "098-987-2995",
+    "email": "",
+    "website": "https://kerama-tokashiki.jp",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "渡嘉敷島阿波連のダイビングショップ。慶良間諸島の美しい海でファンダイブ・体験ダイビングを提供。",
+    "lat": 26.17152,
+    "lng": 127.34485,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "208",
+    "name": "イーフスポーツクラブ",
+    "nameEn": "Eef Sports Club",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "島尻郡久米島町",
+    "address": "沖縄県島尻郡久米島町比嘉160-41-101",
+    "phone": "098-985-8389",
+    "email": "",
+    "website": "http://aqua-navi.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "久米島のダイビング・マリンスポーツショップ。久米島周辺の美しい海でダイビングを案内。",
+    "lat": 26.33058,
+    "lng": 126.80748,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "209",
+    "name": "JiC久米島",
+    "nameEn": "JiC Kumejima",
+    "country": "日本",
+    "region": "沖縄本島",
+    "city": "島尻郡久米島町",
+    "address": "沖縄県島尻郡久米島町比嘉160-45",
+    "phone": "098-896-7010",
+    "email": "",
+    "website": "https://kume-jic.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "久米島のダイビングショップ。はての浜やマンタポイントなど久米島周辺の海を案内。",
+    "lat": 26.33211,
+    "lng": 126.80909,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "210",
+    "name": "ダイビングスクール マレア宮古島",
+    "nameEn": "Marea Miyakojima",
+    "country": "日本",
+    "region": "宮古島",
+    "city": "宮古島市",
+    "address": "沖縄県宮古島市下地字与那覇847-3",
+    "phone": "0980-76-3850",
+    "email": "",
+    "website": "https://marea-miyako.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "マレアグループの宮古島店。併設ホテルあり。与那覇前浜ビーチ近く。ライセンス取得・ファンダイブ。",
+    "lat": 24.74274,
+    "lng": 125.26123,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "211",
+    "name": "OKマリンクラブ宮古島",
+    "nameEn": "OK Marine Club Miyakojima",
+    "country": "日本",
+    "region": "宮古島",
+    "city": "宮古島市",
+    "address": "沖縄県宮古島市平良字下里396-1",
+    "phone": "0980-73-3477",
+    "email": "",
+    "website": "https://okmarine.okinawa",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "宮古島市平良のダイビングショップ。宮古島の美しい海でファンダイブ・体験ダイビング・ライセンス取得を提供。",
+    "lat": 24.80038,
+    "lng": 125.26862,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "212",
+    "name": "BIGHOLIDAY",
+    "nameEn": "Big Holiday",
+    "country": "日本",
+    "region": "宮古島",
+    "city": "宮古島市",
+    "address": "沖縄県宮古島市平良狩俣4103-15",
+    "phone": "0980-72-5455",
+    "email": "",
+    "website": "https://bigholiday-miyakojima.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "宮古島市平良狩俣のダイビングショップ。宮古島北部エリアのダイビングポイントを案内。",
+    "lat": 24.86328,
+    "lng": 125.29193,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "213",
+    "name": "ダイビングステーションKANCHI",
+    "nameEn": "Diving Station KANCHI",
+    "country": "日本",
+    "region": "宮古島",
+    "city": "宮古島市",
+    "address": "沖縄県宮古島市平良字西仲宗根2-5",
+    "phone": "0980-73-1881",
+    "email": "",
+    "website": "https://kanchi32.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "宮古島市平良のダイビングステーション。宮古島の地形ポイントを中心にファンダイブ・体験ダイビングを案内。",
+    "lat": 24.80836,
+    "lng": 125.27974,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "214",
+    "name": "ダイビングサービス碧海",
+    "nameEn": "Diving Service Hekikai",
+    "country": "日本",
+    "region": "宮古島",
+    "city": "宮古島市",
+    "address": "沖縄県宮古島市平良字荷川取497-3",
+    "phone": "0980-73-3850",
+    "email": "",
+    "website": "https://hekikai-okinawa.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "宮古島市平良のダイビングサービス。宮古島の美しい海をベテランガイドが案内。",
+    "lat": 24.83226,
+    "lng": 125.28129,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "215",
+    "name": "アイランドエキスパート宮古島",
+    "nameEn": "Island Expert Miyakojima",
+    "country": "日本",
+    "region": "宮古島",
+    "city": "宮古島市",
+    "address": "沖縄県宮古島市平良字下里356-63",
+    "phone": "0980-79-0144",
+    "email": "",
+    "website": "http://ie-miyako.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "宮古島市平良のダイビングショップ。宮古島周辺のダイビングポイントを案内。",
+    "lat": 24.80135,
+    "lng": 125.27064,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "216",
+    "name": "ダイブ キッズ",
+    "nameEn": "Dive Kids",
+    "country": "日本",
+    "region": "宮古島",
+    "city": "宮古島市",
+    "address": "沖縄県宮古島市平良字下里397-5",
+    "phone": "0980-73-3522",
+    "email": "",
+    "website": "https://divekids.jp",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "宮古島市平良のダイビングショップ。宮古島の地形・洞窟ポイントを中心にファンダイブを案内。",
+    "lat": 24.8006,
+    "lng": 125.269,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "217",
+    "name": "Diving Service Sun＊Island",
+    "nameEn": "Diving Service Sun Island",
+    "country": "日本",
+    "region": "宮古島",
+    "city": "宮古島市",
+    "address": "沖縄県宮古島市平良字久貝284-1",
+    "phone": "0980-73-2220",
+    "email": "",
+    "website": "https://sunisland-miyako.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "宮古島市平良のダイビングサービス。宮古島のダイビングポイントをガイドが案内。",
+    "lat": 24.78711,
+    "lng": 125.26276,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "218",
+    "name": "IRABU REEF",
+    "nameEn": "Irabu Reef",
+    "country": "日本",
+    "region": "宮古島",
+    "city": "宮古島市",
+    "address": "沖縄県宮古島市伊良部伊良部1493-1 ホテルサウスアイランド伊良部",
+    "phone": "0980-78-6665",
+    "email": "",
+    "website": "https://reefmiyako.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "宮古島市伊良部島のダイビングショップ。伊良部島・下地島周辺の美しい海を案内。",
+    "lat": 24.81641,
+    "lng": 125.17376,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "219",
+    "name": "伊良部島マリンセンター",
+    "nameEn": "Irabu Island Marine Center",
+    "country": "日本",
+    "region": "宮古島",
+    "city": "宮古島市",
+    "address": "沖縄県宮古島市伊良部字伊良部765-1",
+    "phone": "0980-78-6650",
+    "email": "",
+    "website": "https://imcdiving.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "宮古島市伊良部島のマリンセンター。伊良部島・下地島エリアのダイビング・シュノーケルを提供。",
+    "lat": 24.80789,
+    "lng": 125.19313,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "220",
+    "name": "MOANAダイビングカレッジ石垣島",
+    "nameEn": "MOANA Diving College Ishigaki",
+    "country": "日本",
+    "region": "石垣島",
+    "city": "石垣市",
+    "address": "沖縄県石垣市平得12-1 カンセイホーム平得1-C",
+    "phone": "0980-87-0686",
+    "email": "",
+    "website": "https://moana-ishigaki.jp",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "石垣市平得のダイビングスクール。PADIライセンス取得専門。少人数制で丁寧な講習を実施。",
+    "lat": 24.33777,
+    "lng": 124.17749,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "221",
+    "name": "ダイビングスクール マレア石垣島",
+    "nameEn": "Marea Ishigaki",
+    "country": "日本",
+    "region": "石垣島",
+    "city": "石垣市",
+    "address": "沖縄県石垣市新川803-6",
+    "phone": "0980-87-0787",
+    "email": "",
+    "website": "https://marea-ishigaki.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "マレアグループの石垣島店。PADI5スターIDダイブリゾート。ライセンス取得・ファンダイブを提供。",
+    "lat": 24.3593,
+    "lng": 124.14502,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "222",
+    "name": "うみの教室",
+    "nameEn": "Umi no Kyoshitsu",
+    "country": "日本",
+    "region": "石垣島",
+    "city": "石垣市",
+    "address": "沖縄県石垣市伊原間4-96",
+    "phone": "0980-89-2191",
+    "email": "",
+    "website": "https://umikyo.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "石垣島北部伊原間のダイビングスクール。初心者向けライセンス取得に特化。少人数制で丁寧な指導。",
+    "lat": 24.50323,
+    "lng": 124.27976,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "223",
+    "name": "オーシャンスタジオ",
+    "nameEn": "Ocean Studio",
+    "country": "日本",
+    "region": "石垣島",
+    "city": "石垣市",
+    "address": "沖縄県石垣市川平861",
+    "phone": "0980-88-2728",
+    "email": "",
+    "website": "https://go2k.net",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "石垣島川平のダイビングショップ。川平湾周辺のダイビングポイントを中心にマンタポイントへも案内。",
+    "lat": 24.46275,
+    "lng": 124.13803,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "224",
+    "name": "プライム・スクーバ石垣",
+    "nameEn": "Prime Scuba Ishigaki",
+    "country": "日本",
+    "region": "石垣島",
+    "city": "石垣市",
+    "address": "沖縄県石垣市真栄里345-9",
+    "phone": "0980-87-5678",
+    "email": "",
+    "website": "https://primescuba-ishigaki.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "石垣市真栄里のダイビングショップ。石垣島・八重山の海を少人数制で案内。",
+    "lat": 24.33641,
+    "lng": 124.18575,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "225",
+    "name": "ANAインターコンチネンタル石垣リゾート",
+    "nameEn": "ANA InterContinental Ishigaki Resort",
+    "country": "日本",
+    "region": "石垣島",
+    "city": "石垣市",
+    "address": "沖縄県石垣市真栄里354-1",
+    "phone": "0980-88-7111",
+    "email": "",
+    "website": "https://www.anaintercontinental-ishigaki.jp/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "石垣島の大型リゾートホテル。体験ダイビング・ファンダイビング・ライセンス取得など多彩なマリンアクティビティを提供。",
+    "lat": 24.33504,
+    "lng": 124.1877,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "226",
+    "name": "ダイビングショップ OHANA ISHIGAKI",
+    "nameEn": "OHANA ISHIGAKI",
+    "country": "日本",
+    "region": "石垣島",
+    "city": "石垣市",
+    "address": "沖縄県石垣市登野城652-1 小波本マンションI 1F東",
+    "phone": "0980-87-0817",
+    "email": "",
+    "website": "https://ohana-ishigaki.jp",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "石垣市登野城のダイビングショップ。石垣島・八重山のダイビングポイントを少人数制で案内。",
+    "lat": 24.33812,
+    "lng": 124.16739,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "227",
+    "name": "うるまDIVING CLUB",
+    "nameEn": "Uruma Diving Club",
+    "country": "日本",
+    "region": "石垣島",
+    "city": "石垣市",
+    "address": "沖縄県石垣市登野城488-1F",
+    "phone": "0980-87-0455",
+    "email": "",
+    "website": "https://www.uruma-club.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "石垣市登野城のダイビングクラブ。石垣島の海をベテランガイドが案内。",
+    "lat": 24.33526,
+    "lng": 124.16249,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "228",
+    "name": "ぷしぃぬしま石垣店",
+    "nameEn": "Pushinushima Ishigaki",
+    "country": "日本",
+    "region": "石垣島",
+    "city": "石垣市",
+    "address": "沖縄県石垣市美崎町2",
+    "phone": "0980-88-6363",
+    "email": "",
+    "website": "https://ishigaki-diving.net",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "石垣市美崎町の老舗ダイビングショップ。石垣島・八重山の海をベテランスタッフが案内。",
+    "lat": 24.33788,
+    "lng": 124.1577,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "229",
+    "name": "トムソーヤマリンショップ",
+    "nameEn": "Tom Sawyer Marine Shop",
+    "country": "日本",
+    "region": "石垣島",
+    "city": "石垣市",
+    "address": "沖縄県石垣市美崎町1 石垣離島ターミナル1F",
+    "phone": "0980-83-4677",
+    "email": "",
+    "website": "https://ishigaki-tomsawyer.jp",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "石垣島の老舗マリンショップ。創業1985年。石垣島最大級の大型ダイビングボートを保有。",
+    "lat": 24.33715,
+    "lng": 124.14941,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "230",
+    "name": "UmiMotto",
+    "nameEn": "UmiMotto",
+    "country": "日本",
+    "region": "石垣島",
+    "city": "石垣市",
+    "address": "沖縄県石垣市石垣340-3 1F",
+    "phone": "0980-87-0080",
+    "email": "",
+    "website": "http://umimotto.aegis-group.co.jp",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "石垣市のダイビングショップ。自社ボートで八重山の海を案内。ファンダイブ・体験・ライセンス講習。",
+    "lat": 24.34733,
+    "lng": 124.15761,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "231",
+    "name": "ダイブステーションゆいマーレ",
+    "nameEn": "Dive Station Yui Mare",
+    "country": "日本",
+    "region": "石垣島",
+    "city": "石垣市",
+    "address": "沖縄県石垣市新川2371-9",
+    "phone": "0980-82-5640",
+    "email": "",
+    "website": "https://yuimare.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "石垣市新川のダイビングサービス。八重山歴24年のベテランガイドが石垣島・八重山の海を案内。",
+    "lat": 24.35164,
+    "lng": 124.14459,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "232",
+    "name": "ダイビングスクールあつまる",
+    "nameEn": "Diving School Atsumaru",
+    "country": "日本",
+    "region": "石垣島",
+    "city": "石垣市",
+    "address": "沖縄県石垣市新川2480-3",
+    "phone": "0980-87-0886",
+    "email": "",
+    "website": "https://diving-beginner.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "石垣島の初心者専門ダイビングスクール。幻の島・ウミガメポイントへ案内。累計5万人以上の実績。",
+    "lat": 24.35779,
+    "lng": 124.12448,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "233",
+    "name": "ジーフリーダイビングサービス",
+    "nameEn": "G-Free Diving Service",
+    "country": "日本",
+    "region": "石垣島",
+    "city": "石垣市",
+    "address": "沖縄県石垣市新川1700-12",
+    "phone": "0980-87-5381",
+    "email": "",
+    "website": "https://www.g-free.co.jp",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "石垣島北部のダイビングサービス。20年の実績。大型クルーザーで快適なファンダイブを提供。",
+    "lat": 24.36168,
+    "lng": 124.11874,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "234",
+    "name": "海講座",
+    "nameEn": "Umi Coza",
+    "country": "日本",
+    "region": "石垣島",
+    "city": "石垣市",
+    "address": "沖縄県石垣市川平1287-97",
+    "phone": "0980-88-2434",
+    "email": "",
+    "website": "https://umicoza.jp",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "石垣島川平のダイビングスクール。川平エリアを拠点にワイド・マクロ・地形などのダイビングを案内。",
+    "lat": 24.44629,
+    "lng": 124.12133,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "235",
+    "name": "クマさんのダイビングショップ",
+    "nameEn": "Kumasan Diving Shop",
+    "country": "日本",
+    "region": "石垣島",
+    "city": "石垣市",
+    "address": "沖縄県石垣市石垣260-1",
+    "phone": "0980-84-3056",
+    "email": "",
+    "website": "https://www.kumasan.info",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "石垣島の夫婦経営ダイビングショップ。PADI 5スター認定。少人数制（最大4名）で石垣島の海を案内。",
+    "lat": 24.34282,
+    "lng": 124.15611,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "236",
+    "name": "ココナッツ石垣島",
+    "nameEn": "Coconut Ishigaki",
+    "country": "日本",
+    "region": "石垣島",
+    "city": "石垣市",
+    "address": "沖縄県石垣市石垣497-3 吉見アパート105",
+    "phone": "0980-88-8089",
+    "email": "",
+    "website": "https://coconut-ishigaki.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "石垣島のPADI 5スターダイブリゾート。15年以上の実績。マンタポイントをはじめ八重山の海を案内。",
+    "lat": 24.34899,
+    "lng": 124.15852,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "237",
+    "name": "八重山Diving Service Field",
+    "nameEn": "Yaeyama Diving Service Field",
+    "country": "日本",
+    "region": "石垣島",
+    "city": "石垣市",
+    "address": "沖縄県石垣市八島町1-14 フェリーターミナル内",
+    "phone": "0980-87-0115",
+    "email": "",
+    "website": "https://ishigaki-diving-field.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ",
+      "マンツーマン"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "石垣島フェリーターミナル内のダイビングサービス。完全少人数制。体験ダイビング・シュノーケリングを提供。",
+    "lat": 24.33604,
+    "lng": 124.1564,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "238",
+    "name": "ブルーシーズン西表",
+    "nameEn": "Blue Season Iriomote",
+    "country": "日本",
+    "region": "西表島",
+    "city": "八重山郡竹富町",
+    "address": "沖縄県八重山郡竹富町上原548-3",
+    "phone": "0980-85-6590",
+    "email": "",
+    "website": "https://www.blueseason-i.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "西表島西部のダイビングショップ。PADI 5スターIDダイブリゾート。ダイビング・シュノーケル・カヌー・トレッキングを提供。",
+    "lat": 24.41846,
+    "lng": 123.79829,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "239",
+    "name": "ダイビングチーム うなりざき",
+    "nameEn": "Diving Team Unarizaki",
+    "country": "日本",
+    "region": "西表島",
+    "city": "八重山郡竹富町",
+    "address": "沖縄県八重山郡竹富町字上原10-172",
+    "phone": "0980-85-6146",
+    "email": "",
+    "website": "https://www.unarizaki.com/iriomote/",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "オープンウォーター",
+      "アドバンス",
+      "ファンダイブ"
+    ],
+    "priceRange": "¥10,000〜",
+    "description": "西表島の老舗ダイビングショップ。30年以上の実績。宿泊施設併設。八重山の海をレベル別にガイド。",
+    "lat": 24.42981,
+    "lng": 123.77092,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "240",
+    "name": "Guide-Ya-San（ガイド屋さん）",
+    "nameEn": "Guide-Ya-San",
+    "country": "日本",
+    "region": "宮古島",
+    "city": "宮古島市",
+    "address": "沖縄県宮古島市平良西里356 2F",
+    "phone": "0980-75-5880",
+    "email": "gaidoyasan@gray.plala.or.jp",
+    "website": "https://guide-ya-san.com",
+    "languages": [
+      "日本語",
+      "英語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "スノーケリング",
+      "オープンウォーター",
+      "マンツーマン"
+    ],
+    "priceRange": "¥5,500〜",
+    "description": "オープン以来17年以上無事故の実績を誇る少人数制ショップ。トリップアドバイザー・トラベラーズチョイスアワードを5年連続受賞。初心者・初級者向けの丁寧なサポートと無料水中デジカメ貸出が特徴。",
+    "lat": 24.804122,
+    "lng": 125.284106,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "241",
+    "name": "PENGUIN DIVERS",
+    "nameEn": "Penguin Divers",
+    "country": "日本",
+    "region": "宮古島",
+    "city": "宮古島市",
+    "address": "沖縄県宮古島市平良下里40",
+    "phone": "0980-79-5433",
+    "email": "penguindivers@hotmail.com",
+    "website": "http://diving-penguin.com",
+    "languages": [
+      "日本語",
+      "英語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "スノーケリング",
+      "オープンウォーター"
+    ],
+    "priceRange": "¥6,000〜",
+    "description": "女性オーナーが運営する少人数制のアットホームなダイビングサービス。初心者・ブランクダイバー・シニア・ファミリーも大歓迎。団体割引・学生割引・送迎サービスも充実。",
+    "lat": 24.805247,
+    "lng": 125.278153,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "242",
+    "name": "marine assist DEMI",
+    "nameEn": "Marine Assist DEMI",
+    "country": "日本",
+    "region": "宮古島",
+    "city": "宮古島市",
+    "address": "沖縄県宮古島市城辺字友利231-2",
+    "phone": "0980-79-7969",
+    "email": "mail@ma-demi.com",
+    "website": "https://ma-demi.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "スノーケリング",
+      "マンツーマン"
+    ],
+    "priceRange": "¥7,900〜",
+    "description": "ご夫婦で運営するアットホームなダイビングショップ。他グループとかぶらない完全貸切ガイドが最大の特徴。初心者やお子様連れファミリーでも安心のサポート体制。",
+    "lat": 24.731617,
+    "lng": 125.37131,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "243",
+    "name": "ダイビングステーションKANCHI",
+    "nameEn": "Diving Station KANCHI",
+    "country": "日本",
+    "region": "宮古島",
+    "city": "宮古島市",
+    "address": "沖縄県宮古島市平良字西仲宗根2-5",
+    "phone": "090-7590-5531",
+    "email": "kanchi1515@gmail.com",
+    "website": "https://kanchi32.com",
+    "languages": [
+      "日本語"
+    ],
+    "courses": [
+      "体験ダイビング",
+      "ファンダイブ",
+      "スノーケリング",
+      "オープンウォーター",
+      "アドバンス",
+      "ナイトロックス"
+    ],
+    "priceRange": "¥13,200〜",
+    "description": "4名のインストラクターが在籍し、1チーム最大4名の少人数制でガイド。定員24名の専用ボートを所有し、宮古島の地形ポイントを中心に八重干瀬や来間島エリアにも案内。",
+    "lat": 24.808359,
+    "lng": 125.279741,
+    "approved": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  }
+]
